@@ -1,0 +1,839 @@
+id,question
+0,What is the publication year of the book Dune?
+0,In what genre does the book Dune primarily belong?
+0,Who is the author of the book Dune?
+0,How many pages are in the hardcover edition of the book Dune?
+0,Which audience is the target demographic for the book Dune?
+2,What is the page count of the book 'The Left Hand of Darkness'?
+2,For which publisher was the book 'The Left Hand of Darkness' originally published?
+2,In what year was the book 'The Left Hand of Darkness' first published?
+2,Who is the author of the book 'The Left Hand of Darkness'?
+2,What is the target audience for the book 'The Left Hand of Darkness'?
+3,"What is the publication year of the book ""Foundation""?"
+3,"Which publisher released the book ""Foundation"" in 1951?"
+3,"Who is the author of the book ""Foundation""?"
+3,"How many pages does the book ""Foundation"" have?"
+3,In what year was the first book in the Foundation Series published?
+4,What is the publication year of the book 'The Hobbit'?
+4,Who is the author of the book 'The Hobbit'?
+4,What is the series position of the book 'The Hobbit' within the 'Middle-earth' series?
+4,How many pages does the book 'The Hobbit' contain?
+4,What are some notable themes present in the book 'The Hobbit'?
+5,What is the publication year of the book 'A Game of Thrones'?
+5,"Who is the author of the book series 'A Song of Ice and Fire', to which 'A Game of Thrones' belongs, and what is the position of this book in the series?"
+5,"How many pages does the book 'A Game of Thrones' have, and from which subgenres is it classified?"
+5,"For what age range or audience is the book 'A Game of Thrones' primarily targeted, according to the metadata provided?"
+5,"What writing style can be identified as characteristic of this book, given its detailed, descriptive, and multi-perspective nature?"
+7,What is the page count of The Way of Kings?
+7,In what year was The Way of Kings published?
+7,Who is the author of The Way of Kings?
+7,"To what extent does The Way of Kings focus on hard magic systems in its world-building, according to the metadata?"
+7,Is The Way of Kings targeted towards a specific age range based on the metadata?
+8,What is the publication year of the book 'The Fifth Season'?
+8,"In what order is this book part of its series, and how many books does the series have in total?"
+8,"Which genres are most commonly associated with this book, according to the metadata?"
+8,Is this book primarily targeted towards a specific age range or demographic group?
+8,What literary technique is employed in the writing style of 'The Fifth Season' as described by the author?
+9,What is the publication year of Ender's Game?
+9,Who is the author of the book Ender's Game?
+9,How many pages does the book Ender's Game have?
+9,For what target audience is the book Ender's Game primarily intended?
+9,What is the main subgenre of the book series Ender Saga?
+10,What is the number of pages in the book 'Hyperion'?
+10,"Who is the author of the book series 'Hyperion Cantos', and what is the first position of the series?"
+10,"What genres of fiction does the book 'Hyperion' belong to, according to its metadata record?"
+10,"What themes are explored in the book 'Hyperion', as identified by its metadata record?"
+10,In what year was the book 'Hyperion' originally published?
+11,What is the publication year of the book 'Leviathan Wakes'?
+11,Which author wrote the book 'Leviathan Wakes'?
+11,How many pages does the book 'Leviathan Wakes' have?
+11,Who are the target audience for the book 'Leviathan Wakes'?
+11,What is the primary technology focus of the book 'Leviathan Wakes'?
+12,What is the publication year of this book?
+12,Which publisher released 'The Obelisk Gate'?
+12,How many pages does the book contain?
+12,For which series does 'The Obelisk Gate' belong and its position within it?
+12,What type of setting does the story take place in?
+13,What is the page count of the book 'The Stone Sky'?
+13,Who is the author of the series and book 'The Stone Sky'?
+13,In what position is 'The Stone Sky' within its respective series?
+13,What genres does the book 'The Stone Sky' belong to?
+13,When was the book 'The Stone Sky' published?
+14,What is the target audience for the book 'Children of Time'?
+14,Which subgenres does the book 'Children of Time' belong to?
+14,How many pages does the book 'Children of Time' contain?
+14,In what year was the book 'Children of Time' published?
+14,Who is the author of the book 'Children of Time'?
+15,What is the total page count of 'Children of Ruin'?
+15,In what year was the book 'Children of Ruin' published?
+15,"Who is the author of the book series 'Children of Time', and which position is this book in the series?"
+15,Can you identify the primary subgenres associated with the book 'Children of Ruin'?
+15,What is the recommended target audience for the book 'Children of Ruin'?
+16,What is the publication year of the book 'The Forever War'?
+16,"Who is the author of the book series 'The Forever War', and what is the position of this specific book within the series?"
+16,How many pages are in the hardcover edition of 'The Forever War'?
+16,In which subgenres is the book 'The Forever War' primarily classified?
+16,What is the recommended age range for readers of 'The Forever War'?
+17,What is the publication year of the book 'Old Man's War'?
+17,Which publisher released the book 'Old Man's War' in 2005?
+17,How many pages does the book 'Old Man's War' contain?
+17,To what type of audience is the book 'Old Man's War' primarily targeted?
+17,What are some of the themes present in the book 'Old Man's War'?
+18,What is the title of the first book in Kim Stanley Robinson's Mars Trilogy?
+18,In what year was 'Red Mars' published by Bantam Books?
+18,How many pages does the book 'Red Mars' contain?
+18,To which subgenres of science fiction does the book 'Red Mars' belong?
+18,What is a primary theme explored in Kim Stanley Robinson's novel 'Red Mars'?
+19,What is the publication year of the book 'Green Mars'?
+19,Which publisher released the book 'Green Mars'?
+19,How many pages does the book 'Green Mars' have?
+19,What are the primary subgenres associated with the book 'Green Mars'?
+19,Is 'Green Mars' targeted towards a specific age range or audience group?
+20,What is the series position of 'Blue Mars' within its respective series?
+20,In what year was 'Blue Mars' published by Bantam Spectra?
+20,How many pages does 'Blue Mars' contain?
+20,Who is the author of 'Blue Mars'?
+20,What are the primary content warnings associated with reading 'Blue Mars'?
+21,What is the page count of the book 'Snow Crash'?
+21,Which publisher released the book 'Snow Crash' in 1992?
+21,"What is the target audience for readers according to the metadata, and what type of content does it specify?"
+21,"How would you describe the writing style of Neal Stephenson in the book 'Snow Crash', and what aspects of technical knowledge does it incorporate?"
+21,In which technological field(s) or environment(s) is the virtual Metaverse highlighted as a significant aspect of the story?
+23,What is the publication year of 'The Three-Body Problem'?
+23,The series position where this book fits within the 'Remembrance of Earth's Past' series.
+23,"Which subgenres categorize this book: Hard SF, First-contact SF, and Astrophysical SF?"
+23,What are the themes explored in this novel?
+23,How many pages does the book have?
+24,"What is the publication year of the book 'The Dark Forest', and who published it?"
+24,"How many pages does the book 'The Dark Forest' contain, and what was its original language?"
+24,"In which series position does the book 'The Dark Forest' fit, and how would you describe its target audience?"
+24,"What is the technology focus of the book 'The Dark Forest', and are there any content warnings that readers should be aware of?"
+24,"How many books are in the 'Remembrance of Earth's Past' series, and what genre classification does the book 'The Dark Forest' fall under?"
+25,Who is the author of the book 'Death's End'?
+25,How many pages does the book contain?
+25,What is the publication year of the book?
+25,In what series position does 'Death's End' fit within?
+25,What are some of the subgenres associated with this book?
+26,What is the publication year of the book 'Ringworld'?
+26,In what subgenres is the book 'Ringworld' classified?
+26,How many pages does the book 'Ringworld' contain?
+26,Who is the author of the book 'Ringworld'?
+26,What type of technology does the book 'Ringworld' focus on?
+27,What is the publication year of the book 'The Mote in God's Eye'?
+27,Who co-authored the book 'The Mote in God's Eye'?
+27,In what series position does the book 'The Mote in God's Eye' sit?
+27,How many pages are in the book 'The Mote in God's Eye'?
+27,What is the target audience for the book 'The Mote in God's Eye'?
+28,What is the publication year of the book Altered Carbon?
+28,In what position is the book Altered Carbon part of a series?
+28,Who is the target audience for the book Altered Carbon?
+28,How many pages are in the edition of Altered Carbon?
+28,What genre categorizations does the book Altered Carbon belong to?
+29,What is the publication year of the book 'Revelation Space'?
+29,Which two subgenres are associated with the book 'Revelation Space'?
+29,What is the page count of the book 'Revelation Space'?
+29,Who is the author of the book 'Revelation Space'?
+29,What type of technology does the book 'Revelation Space' focus on?
+30,What is the publication year of the book 'Chasm City'?
+30,Who wrote the book 'Chasm City'?
+30,In what position is 'Chasm City' located within the Revelation Space universe series?
+30,How many pages does the book 'Chasm City' contain?
+30,For which target audience is the book 'Chasm City' primarily intended?
+31,What is the publication year of Perdido Street Station?
+31,Who is the author of the book Perdido Street Station?
+31,"In what series does the book Perdido Street Station belong, and what is its position within the series?"
+31,What are the primary subgenres associated with the book Perdido Street Station?
+31,At what page count can readers find Perdido Street Station?
+32,What is the page count of the book 'The Scar'?
+32,Who is the author of the book 'The Scar' and what is the series it belongs to?
+32,In which year was the book 'The Scar' published?
+32,"What type of content warnings does the book 'The Scar' have, according to its metadata?"
+32,At what position in the Bas-Lag / New Crobuzon series does 'The Scar' fall?
+33,What is the publication year of the book 'Iron Council'?
+33,Which publisher released 'Iron Council' in 2004?
+33,Who is the author of the book 'Iron Council'?
+33,What genre classification would you categorize the themes of 'Iron Council' under?
+33,How many pages are in the hardcover edition of 'Iron Council'?
+34,What is the publication year of this book?
+34,How many pages does this book contain?
+34,Who is the author of 'American Gods'?
+34,What is the target audience for readers of 'American Gods'?
+34,In what subgenres can the book 'American Gods' be classified?
+35,What are the subgenres associated with this book?
+35,"For which series is this book considered a part of, and what position does it hold?"
+35,"How many pages are in this book, according to its metadata?"
+35,"In what year was this book first published, as indicated by its metadata?"
+35,"Who is the publisher that released this book, and how do they collaborate with HarperCollins?"
+36,What is the publication year of the book Good Omens?
+36,"Which publisher released the book Good Omens, and what is their respective imprint?"
+36,How many pages does the book Good Omens have?
+36,What are the target audience for readers of the book Good Omens?
+36,"What is the estimated page count range of books in this series, given that Good Omens is at position 0?"
+37,What is the publication year of the book Small Gods?
+37,What is the page count of the book Small Gods?
+37,For what target audience is the book Small Gods intended?
+37,In which series position does the book Small Gods fall within?
+37,What are some of the subgenres associated with the book Small Gods?
+38,Who is the author of 'The Colour of Magic'?
+38,What is the publication year of the book 'The Colour of Magic'?
+38,In what position does 'The Colour of Magic' sit within the Discworld series?
+38,"What are the subgenres associated with 'The Colour of Magic', and how would you categorize them?"
+38,Who is the target audience for reading 'The Colour of Magic' as recommended by the publisher?
+38,What is the page count of 'The Colour of Magic'?
+39,What is the publication year of the book 'Guards! Guards!'?
+39,"Who is the author of the Discworld series, to which 'Guards! Guards!' belongs?"
+39,In what position does 'Guards! Guards!' stand within the Discworld series?
+39,"What are some of the subgenres associated with 'Guards! Guards!', according to the book's metadata?"
+39,At what page count is the book 'Guards! Guards!' printed?
+40,What is the title of the book and who is its author?
+40,In which position within a series does 'The Lies of Locke Lamora' stand?
+40,"What genres and themes are primarily associated with this book, according to the metadata?"
+40,"How many pages long is the book, as stated in the publication information?"
+40,"For what type of audience is the book targeted, based on the provided metadata?"
+41,What is the publication year of the book Red Seas Under Red Skies?
+41,Who is the author of this book and which series does it belong to?
+41,How many pages does the book have?
+41,To what target audience is the book primarily aimed at?
+41,In what subgenres can the book be classified?
+42,What is the title of the book being evaluated?
+42,"Who is the author of the book, and what series does it belong to?"
+42,In what position is The Republic of Thieves within its respective series?
+42,"Which subgenres categorize The Republic of Thieves, and how many are present?"
+42,What themes are central to understanding the book's content?
+43,"What is the publication year of the book ""The Blade Itself""?"
+43,Who is the author of this book?
+43,"In what position is 'The Blade Itself' placed within its series, ""First Law""?"
+43,How many pages are in the edition of 'The Blade Itself'?
+43,At what pace does the reading of 'The Blade Itself' generally fall?
+44,What is the publication year of the book?
+44,"Who is the author of this book, and what is the series it belongs to?"
+44,"How many pages does the book contain, and what type of content warnings should readers be aware of?"
+44,"In which subgenres does this fantasy novel belong, and to what extent does it focus on technology?"
+44,What are some of the key themes explored in this epic fantasy novel?
+45,What is the publication year of the book 'Last Argument of Kings'?
+45,How many pages does the book 'Last Argument of Kings' contain?
+45,Which publisher released the book 'Last Argument of Kings'?
+45,For which age group is the target audience of the book 'Last Argument of Kings'?
+45,What are the primary subgenres associated with the book 'Last Argument of Kings'?
+46,What is the publication year of the book The Gunslinger?
+46,Who is the author of the book The Gunslinger?
+46,In what position is The Gunslinger within its respective series?
+46,How many pages are in the book The Gunslinger?
+46,By which publisher was The Gunslinger initially released?
+47,What is the position of this book within its series?
+47,What are some of the subgenres associated with this book?
+47,At what page count was this book published?
+47,Who is the publisher of this book's initial publication edition?
+47,In what year was this book first released?
+48,What is the series position of the book within its overall series?
+48,"Which subgenres are commonly associated with this book, and how would you categorize them?"
+48,"To what extent does the publication year influence the content or themes of this book, according to available metadata?"
+48,"How does the target audience for this book align with its content and themes, as indicated by metadata?"
+48,What tone can be inferred from the publisher's description of the writing style used in this book?
+49,What is the page count of the book 'Wizard and Glass'?
+49,In what year was the book 'Wizard and Glass' published by Grant?
+49,Who is the target audience for the book 'Wizard and Glass'?
+49,What are the primary themes present in the book 'Wizard and Glass'?
+49,"What type of setting does Roland's story take place within, as described in the summary?"
+50,"What is the page count of the book, and was it published by a single publisher or multiple publishers?"
+50,"In what year was this book first published, and which subgenres does it belong to?"
+50,"Who is the target audience for this book, and what is its estimated age range?"
+50,"How would you describe the tone of the book, and are there any specific themes explored in the story?"
+50,"Is there a particular type of technology that is emphasized or featured within the narrative, such as communication media or period-appropriate tools?"
+51,What is the publication year of The Stand?
+51,Who is the author of the book The Stand?
+51,The Stand is classified under which subgenres?
+51,What is the estimated page count of the book?
+51,In what year was the book The Stand published by Doubleday?
+52,What is the publication year of the book Dracula?
+52,Who is the author of the book Dracula?
+52,What type of writing style was used by Bram Stoker in Dracula?
+52,In what setting does the majority of the story take place?
+52,What are some subgenres that describe the book Dracula?
+55,What is the estimated number of pages in this book?
+55,In what year was this dystopian novel first published?
+55,Who is the author of this classic work of political fiction?
+55,What are the main themes explored in this totalitarian state novel?
+55,Is this book suitable for readers under 18 years old?
+56,What is the publication year of Fahrenheit 451?
+56,Who is the author of Fahrenheit 451?
+56,How many pages does the book Fahrenheit 451 have?
+56,In what type of future setting is the story of Fahrenheit 451 set?
+56,Is Fahrenheit 451 targeted towards a specific audience?
+57,What is the publication year of 'Something Wicked This Way Comes'?
+57,Who is the author of the book 'Something Wicked This Way Comes'?
+57,What is the target audience for the book 'Something Wicked This Way Comes'?
+57,What genre categories does the book 'Something Wicked This Way Comes' belong to?
+57,"Is there a series that includes the book 'Something Wicked This Way Comes', and if so, what is its position within the series?"
+58,What is the page count of this book?
+58,Which publisher released 'The Martian'?
+58,In what year was 'The Martian' first published?
+58,Who is the author of 'The Martian'?
+58,Is 'The Martian' a part of any series?
+59,What is the author of the book 'Project Hail Mary'?
+59,In what year was the book 'Project Hail Mary' published by Ballantine Books?
+59,Who is the target audience for the book 'Project Hail Mary'?
+59,How many pages does the book 'Project Hail Mary' have in total?
+59,What are the primary subgenres of the book 'Project Hail Mary'?
+61,What is the publication year of the book 'Abaddon's Gate'?
+61,"Who is the author of the book series 'The Expanse', which includes 'Abaddon's Gate'?"
+61,"In what position does 'Abaddon's Gate' stand within its respective series, 'The Expanse'?"
+61,What are the primary subgenres associated with the book 'Abaddon's Gate'?
+61,What is the approximate page count of the book 'Abaddon's Gate'?
+62,"What is the publication year of 'Cibola Burn', and was it published by a major publisher?"
+62,"In what position does 'Cibola Burn' stand within The Expanse series, and by whom was it written?"
+62,"What are the subgenres associated with 'Cibola Burn', and how does its target audience fit into this classification?"
+62,"How many pages does 'Cibola Burn' contain, and was it originally published as a hardcover book?"
+62,"Is there a notable focus on terraforming or conflict technology in 'Cibola Burn', and if so, is it the primary technology focus of The Expanse series?"
+65,What is the publication year of the book 'Tiamat's Wrath'?
+65,How many pages does the book 'Tiamat's Wrath' contain?
+65,In what series position does 'Tiamat's Wrath' stand among the books in The Expanse series?
+65,"Who is the author of the book 'Tiamat's Wrath', and what genre does the book belong to?"
+65,What are some content warnings that readers should be aware of while reading 'Tiamat's Wrath'?
+66,"Is this book part of a series, and if so, what is the position of this book within that series?"
+66,This book's subgenres include which specific categories?
+66,"What are the major themes explored in this book, according to its metadata?"
+66,The page count of this book is
+66,This book was published by
+66,Is this book primarily intended for a young adult audience?
+67,What is the publication year of the book 'Storm Front'?
+67,What genre category does the book 'Storm Front' belong to?
+67,Who is the target audience for reading 'Storm Front'?
+67,What type of narrative style is used by the author Jim Butcher in 'Storm Front'?
+67,What theme or subject matter is explicitly stated as a major concern in the book 'Storm Front'?
+68,What is the publication year of the book 'Fool Moon'?
+68,In what series position does 'Fool Moon' fit within the Dresden Files?
+68,How many pages are in the hardcover edition of 'Fool Moon'?
+68,Who is the target audience for the adult fantasy readers of 'Fool Moon'?
+68,What are some of the subgenres associated with 'Fool Moon'?
+69,What is the publication year of the book 'Grave Peril'?
+69,"In what position does the book 'Grave Peril' sit within its series, The Dresden Files?"
+69,What are the primary genres associated with the book 'Grave Peril'?
+69,How many pages does the book 'Grave Peril' have?
+69,Who is the author of the book 'Grave Peril'?
+70,What is the series position of the book within The Dresden Files series?
+70,Who is the author of the book Summer Knight?
+70,What is the publication year of the book Summer Knight?
+70,In what subgenres can the book Summer Knight be classified?
+70,How many pages are in the book Summer Knight?
+71,What is the publication year of 'Blood Rites'?
+71,In what series position does 'Blood Rites' fall within?
+71,How many pages are in the book 'Blood Rites'?
+71,Who is the author of the book 'Blood Rites'?
+71,What type of setting is present in 'Blood Rites'?
+72,What is the position of 'Dead Beat' within 'The Dresden Files' series?
+72,In what year was 'Dead Beat' published?
+72,How many pages does the book 'Dead Beat' have?
+72,"Who is the target audience for 'Dead Beat', according to its metadata?"
+72,"What type of technology focus is present in 'Dead Beat', as described by its author's intent?"
+73,What is the series position of 'Proven Guilty' within The Dresden Files?
+73,"Who is the author of 'Proven Guilty', and what is the publication year of this book?"
+73,"How many pages are in the book 'Proven Guilty', and what is its target audience?"
+73,"In which subgenres is 'Proven Guilty' categorized, and what themes does it explore?"
+73,"What type of setting does 'Proven Guilty' have, as described by the author?"
+74,What is the publication year of the book 'Changes'?
+74,"Who is the author of the book 'Changes', and what is the series position within The Dresden Files?"
+74,"How many pages does the book 'Changes' contain, and in what subgenres is it classified?"
+74,"What are the primary themes present in the book 'Changes', as stated by the author?"
+74,"What type of tone can be expected from reading the book 'Changes', according to its metadata?"
+76,What is the publication year of 'The Hunger Games'?
+76,Who is the author of 'The Hunger Games' and what is the series position?
+76,How many pages does the book 'The Hunger Games' contain?
+76,In what genres is 'The Hunger Games' primarily classified?
+76,Is the target audience for 'The Hunger Games' specifically defined as young adult readers?
+77,What is the publication year of the book 'Catching Fire'?
+77,Who is the author of the series and book 'Catching Fire'?
+77,In what position does the book 'Catching Fire' fall within its respective series?
+77,What are some subgenres associated with the book 'Catching Fire'?
+77,How many pages does the book 'Catching Fire' have?
+79,What is the number of pages in the book Divergent?
+79,In what year was the book Divergent published?
+79,Who is the author of the book Divergent?
+79,"How many books are part of the Divergent Trilogy series, and what is their order?"
+79,Which subgenres does the book Divergent belong to?
+80,What is the page count of the book 'Insurgent'?
+80,Who is the author of the book 'Insurgent' and what genre(s) does she write in?
+80,What series does the book 'Insurgent' belong to and its position within that series?
+80,In what year was the book 'Insurgent' published and by which publisher?
+80,What are some content warnings associated with reading this young adult dystopian novel?
+81,What is the publication year of the book Allegiant?
+81,How many pages does the book Allegiant have?
+81,"For which series, as part of which position, was Allegiant published?"
+81,Which subgenres categorize Allegiant in terms of genre classification?
+81,What are some of the themes explored in the book Allegiant?
+82,What is the page count of the book Annihilation?
+82,In what year was the book Annihilation published?
+82,For which audience is the book Annihilation primarily intended?
+82,How would you describe the tone of the book Annihilation?
+82,"What type of technology are featured in the setting of Area X, as described in the book's metadata?"
+83,What is the publication year of the book 'Authority'?
+83,Who is the author of the book 'Authority'?
+83,What series does the book 'Authority' belong to and its position in the series?
+83,Are there any content warnings for the book 'Authority' that include psychological distress?
+83,What is the estimated page count of the book 'Authority'?
+85,What is the publication year of this book?
+85,For what audience is this book primarily intended?
+85,How many pages does this book have?
+85,Who is the author of this book?
+85,In what genre does 'The City & The City' belong?
+86,What is the number of pages in the book 'World War Z'?
+86,Who is the author of the book 'World War Z'?
+86,How many series positions does the book 'World War Z' hold?
+86,What are the subgenres associated with the book 'World War Z'?
+86,What type of writing style is used in the book 'World War Z'?
+87,What is the page count of 'The Passage'?
+87,In what year was 'The Passage' published?
+87,Who is the author of 'The Passage'?
+87,What type of genre classification would you categorize 'The Passage' under? (Select all that apply)
+87,Is 'The Passage' considered a target audience for adult/speculative readers only?
+88,What is the publication year of 'The Twelve'?
+88,How many pages does the book 'The Twelve' contain?
+88,Who is the author of 'The Twelve'?
+88,In what position is 'The Twelve' within The Passage Trilogy?
+88,What are the genres associated with 'The Twelve'?
+89,What is the publication year of The City of Mirrors?
+89,"Who is the author of The Passage Trilogy, and what is the position of this book within the series?"
+89,In what genre categories is The City of Mirrors classified?
+89,What themes are explored in The City of Mirrors according to the provided metadata?
+89,What type of technology focus can be found in the post-apocalyptic world of The City of Mirrors?
+90,What is the publication year of The Silmarillion?
+90,Who is the author of The Silmarillion and what is the name of the series they belong to?
+90,How many pages does the book contain?
+90,"For which target audience was The Silmarillion published, and by whom?"
+90,What are some of the key themes explored in The Silmarillion?
+93,What is the publication year of the book 'The Eye of the World'?
+93,What genre classification best describes 'The Wheel of Time' series?
+93,In what position within their respective series does 'The Eye of the World' fall?
+93,How many pages are contained within the book 'The Eye of the World'?
+93,Who is the publisher responsible for releasing 'The Eye of the World' in the United States and the United Kingdom?
+94,What is the publication year of the book 'The Great Hunt'?
+94,Who is the author of the series 'The Wheel of Time' and the individual book 'The Great Hunt'?
+94,In what position does the book 'The Great Hunt' stand within the 'Wheel of Time' series?
+94,How many pages are in the book 'The Great Hunt'?
+94,What is the target audience for which the book 'The Great Hunt' is recommended?
+95,Is The Dragon Reborn part of a series that is considered epic fantasy?
+95,What is the page count of The Dragon Reborn?
+95,In what year was The Dragon Reborn published?
+95,For what target audience is The Dragon Reborn generally recommended?
+95,What is the primary focus of technology in this book?
+95,Are there any content warnings for this book?
+95,Is the writing style used in The Dragon Reborn primarily third-person limited?
+95,What are some key themes explored in The Dragon Reborn?
+95,What is the tone predominantly associated with The Dragon Reborn?
+95,In what subgenres does The Dragon Reborn fall under?
+96,What is the series name of this book?
+96,Which author wrote The Shadow Rising?
+96,In what position is The Shadow Rising within its respective series?
+96,How many pages does the book contain?
+96,When was The Shadow Rising published?
+97,What is the page count of 'The Fires of Heaven'?
+97,Which publisher released 'The Fires of Heaven' in the United Kingdom?
+97,At what position in its series is 'The Fires of Heaven' published?
+97,"What are the subgenres associated with 'The Fires of Heaven', according to the book's metadata?"
+97,In what year was 'The Fires of Heaven' originally published?
+99,What is the page count of the book 'A Crown of Swords'?
+99,In what publication year was 'A Crown of Swords' released?
+99,Who is the author of the series and book 'A Crown of Swords'?
+99,In which position within the series does 'A Crown of Swords' fall?
+99,What subgenres are associated with the book 'A Crown of Swords'?
+100,What is the publication year of the book?
+100,Who is the author of the book?
+100,In what position is the book within its series?
+100,How many pages does the book contain?
+100,What publisher originally released the book in the United States?
+101,"What is the publication year of the book 'Winter's Heart', and which regions it was published in?"
+101,"Who is the author of the book 'Winter's Heart', and what genre category does this work fall under?"
+101,In what position is 'Winter's Heart' located within The Wheel of Time series?
+101,"What are the primary genres associated with the book 'Winter's Heart', and what themes do they commonly explore in epic fantasy works like this one?"
+101,"How many pages are there in the book 'Winter's Heart', and to which audience is it primarily targeted?"
+102,What is the publication year of the book 'Crossroads of Twilight'?
+102,Who is the author of 'Crossroads of Twilight'?
+102,How many pages does the book 'Crossroads of Twilight' have?
+102,In what year was the book 'Crossroads of Twilight' first published?
+102,By whom was the book 'Crossroads of Twilight' originally published?
+103,What is the page count of the book 'Knife of Dreams'?
+103,Which publisher released 'Knife of Dreams' in the United States and the United Kingdom?
+103,In what year was 'Knife of Dreams' published?
+103,"For which series does 'Knife of Dreams' belong, and in what position is it within that series?"
+103,What genre classification can be associated with the book 'Knife of Dreams'?
+104,Is the book 'The Gathering Storm' part of a series?
+104,Who are the authors of this book?
+104,What is the publication year of 'The Gathering Storm'?
+104,What genre categories does the book belong to?
+104,How many pages does the book 'The Gathering Storm' have?
+105,What is the book title of the 13th installment in The Wheel of Time series?
+105,"Who are the co-authors of Towers of Midnight, and what genre(s) does their work belong to?"
+105,In what year was Towers of Midnight published by Tor Books and Orbit Books?
+105,"How many pages long is the book, Towers of Midnight?"
+105,"To whom would you recommend reading Towers of Midnight, as indicated by its target audience?"
+106,What is the total page count of book 'A Memory of Light'?
+106,Who are the authors credited for 'A Memory of Light'?
+106,In what position within the series is 'A Memory of Light' published?
+106,Which subgenres categorize 'A Memory of Light'?
+106,What are the primary themes explored in 'A Memory of Light'?
+108,What is the publication year of Warbreaker?
+108,Who is the author of Warbreaker?
+108,What is the page count of Warbreaker?
+108,In what genre category does Warbreaker primarily belong?
+108,To which book series and position is Warbreaker part of?
+111,What is the page count of the book 'To Sleep in a Sea of Stars'?
+111,Who is the author of the book 'To Sleep in a Sea of Stars'?
+111,In what year was the book 'To Sleep in a Sea of Stars' published by Tor Books?
+111,What is the target audience for the book 'To Sleep in a Sea of Stars'?
+111,How many pages long is the book 'To Sleep in a Sea of Stars'?
+112,What is the book's publication year?
+112,Who is the author of the book 'Eragon'?
+112,In what series does 'Eragon' belong and where is it positioned?
+112,What are the primary themes associated with this book?
+112,How many pages does the hardcover edition of 'Eragon' contain?
+113,What is the title of the second book in The Inheritance Cycle series?
+113,Who wrote the book 'Eldest' and what is their occupation?
+113,How many pages does the book 'Eldest' contain?
+113,In what year was the book 'Eldest' first published?
+113,For which age group is the book 'Eldest' primarily intended?
+114,What is the page count of the book 'Brisingr'?
+114,Who is the author and series position of the book 'Brisingr' within the Inheritance Cycle series?
+114,In what year was the book 'Brisingr' published?
+114,By which publisher was the book 'Brisingr' originally released?
+114,What type of technology plays a significant role in the world of 'Brisingr'?
+115,What is the number of pages in the book 'Inheritance'?
+115,"Which series does the book 'Inheritance' belong to, and what position is it in that series?"
+115,For which target audience is the book 'Inheritance' primarily intended?
+115,"How would you describe the tone of the book 'Inheritance', as classified by the publisher?"
+115,What type of technology focus can be found in the book 'Inheritance'?
+116,What is the publication year of the book 'The Sword of Shannara'?
+116,Which subgenres are associated with the book 'The Sword of Shannara'?
+116,What type of technology focus is prominent in the world of 'The Sword of Shannara'?
+116,"Who is the author of the book 'The Sword of Shannara', and what is their series position within the Shannara series?"
+116,What is the approximate number of pages in the book 'The Sword of Shannara'?
+117,What is the publication year of 'The Elfstones of Shannara'?
+117,In what series position does 'The Elfstones of Shannara' fall within?
+117,How many pages does the book contain?
+117,Who is the author of 'The Elfstones of Shannara'?
+117,What is the target audience for readers of 'The Elfstones of Shannara'?
+118,What is the publication year of 'The Wishsong of Shannara'?
+118,To what age group is 'The Wishsong of Shannara' primarily targeted?
+118,Which magical system drives the narrative of 'The Wishsong of Shannara'?
+118,How many pages does the book 'The Wishsong of Shannara' contain?
+118,What tone can be described as dominant in the writing style of 'The Wishsong of Shannara'?
+119,What is the publication year of Shadows of Self?
+119,Who is the author of Shadows of Self?
+119,In what position does Shadows of Self sit within the Mistborn series?
+119,What genres and themes can be associated with Shadows of Self?
+119,How many pages are in the edition of Shadows of Self?
+120,"What is the series name of the book Bands of Mourning, and what is its position within the series?"
+120,"What genres does the book Bands of Mourning belong to, and which themes are explored through it?"
+120,"In what year was the book Bands of Mourning published by Tor Books, and how many pages long is the book?"
+120,"Who is the author of the book Bands of Mourning, and what type of technology focus is present in this work?"
+120,"What is the target audience for the book Bands of Mourning, and are there any content warnings that readers should be aware of?"
+121,What is the publication year of 'The Alloy of Law'?
+121,Which publisher released 'The Alloy of Law' to adult fantasy readers?
+121,How many pages does the book 'The Alloy of Law' contain?
+121,In what position is 'The Alloy of Law' set within Brandon Sanderson's Mistborn Era series?
+121,What genre categories are associated with 'The Alloy of Law'?
+123,"What is the typical audience for this book, as indicated by the publisher?"
+123,How many pages does the book have?
+123,In what year was this book first published?
+123,How would you describe the tone of the writing style used in this novel?
+123,What type of content warnings should readers be aware of when reading this book?
+124,What is the publication year of the book?
+124,Who is the author of this book?
+124,How many pages are in the book?
+124,In what year did the series begin?
+124,What are some of the subgenres associated with this book?
+125,"What is the publication year of the book ""The Time Machine""?"
+125,"Who is the author of the book ""The Time Machine"" and what is their occupation?"
+125,"What genres does the book ""The Time Machine"" belong to?"
+125,"How many pages are in the hardcover edition of ""The Time Machine""?"
+125,"In what year was the book ""The Time Machine"" first published?"
+127,What is the publication year of 'The Invisible Man'?
+127,How many pages does the book 'The Invisible Man' have?
+127,Who is the author of 'The Invisible Man'?
+127,What type of setting does the book 'The Invisible Man' take place in?
+127,What genre(s) categorize the book 'The Invisible Man'?
+128,What is the publication year of the book?
+128,"Who is the author of the book, and what genre does he belong to?"
+128,What are some of the themes explored in this science fiction novel?
+128,"How many pages does the book have, and who published it?"
+128,What type of content warnings should readers be aware of when reading this book?
+130,What is the publication year of the book?
+130,"Who are the main characters in the book, and what is their profession?"
+130,"How many pages does the book contain, and for which audience is it primarily intended?"
+130,"In what tone and style is the book written, and what is the focus of its narrative?"
+130,What technological aspects of robotic engineering are explored in this book?
+131,What is the publication year of the book 'Roadside Picnic'?
+131,Who are the authors of this book?
+131,What are some subgenres associated with this book?
+131,How many pages does the book have?
+131,In what type of zones does the story take place?
+132,"Was the book written by two authors, or was it a single author?"
+132,What is the publication year of the book in the Soviet Union?
+132,In what type of setting does the book take place?
+132,What genre categories best describe the book's subgenres?
+132,What warning labels would be most suitable for this book based on its content warnings?
+133,What is the publication year of the book 'The Power'?
+133,Who is the author of the book 'The Power' and what genre does it belong to?
+133,In what type of world setting does the book 'The Power' take place?
+133,What is the target audience for the book 'The Power' as specified by the publisher?
+133,How many pages does the book 'The Power' have?
+134,What is the page count of the book 'The Handmaid's Tale'?
+134,Who is the author of the novel 'The Handmaid's Tale'?
+134,In what type of genre does the book 'The Handmaid's Tale' primarily belong?
+134,For which audience is the book 'The Handmaid's Tale' generally recommended?
+134,What is the setting type depicted in Margaret Atwood's novel 'The Handmaid's Tale'?
+136,"What is the series name of this book, and what is its position within that series?"
+136,"How many pages does this book have, and what publication year was it released?"
+136,"Which publisher produced this book, and what audience is it primarily targeted towards?"
+136,"What are the main themes explored in this novel, according to the metadata provided?"
+136,"What is the primary writing style used in this book, as described by the author?"
+137,"What is the title of this book, as presented in the database?"
+137,"Who is the author of this book, according to the provided metadata record?"
+137,"In what position is this book within its respective series, as indicated by the database?"
+137,"Which genres or subgenres are associated with this book, based on the metadata provided?"
+137,"What is the estimated page count of this book, according to the publication data?"
+139,"Is this book part of a series, and if so, what is the position of the book within that series?"
+139,What are the primary genres and subgenres associated with this book?
+139,What are some of the major themes explored in the story?
+139,What is the page count for this publication?
+139,When was this book published?
+140,What is the publication year of the book Gideon the Ninth?
+140,In what order are books in The Locked Tomb series published?
+140,Which subgenres does the book Gideon the Ninth belong to?
+140,How many pages does the book Gideon the Ninth have?
+140,For whom is the target audience of Gideon the Ninth categorized?
+142,What is the page count of Nona the Ninth?
+142,Which publisher released Nona the Ninth in 2022?
+142,Who is the author of Nona the Ninth and what is the series name for this book?
+142,What are some common themes present in Nona the Ninth?
+142,How long is Nona the Ninth in terms of its intended audience?
+143,What is the publication year of the book 'A Desolation Called Peace'?
+143,Which publisher released the book 'A Desolation Called Peace'?
+143,How many pages does the book 'A Desolation Called Peace' contain?
+143,For which series position in the Teixcalaan series is 'A Desolation Called Peace' located?
+143,What are some of the themes explored in the book 'A Desolation Called Peace'?
+144,"What is the genre classification for this book, as described by the subgenre field?"
+144,In what year was the book first published?
+144,Who is the author credited for writing this book?
+144,How many pages are included in this book's edition?
+144,"What is the primary focus of technological advancements in this story, according to the content warnings?"
+145,What is the approximate page count of the book Parable of the Sower?
+145,Who is the author of the book Parable of the Sower?
+145,In what year was the book Parable of the Sower published?
+145,What is the target audience for the book Parable of the Sower?
+145,What is the primary writing style used in the book Parable of the Sower?
+146,What is the page count of 'Parable of the Talents'?
+146,Who is the author of 'Parable of the Talents'?
+146,In what year was 'Parable of the Talents' published?
+146,By whom and to what audience was 'Parable of the Talents' published?
+146,What is the tone described as in the metadata for 'Parable of the Talents'?
+147,What is the publication year of the book 'Kindred'?
+147,In what subgenres is the book 'Kindred' categorized?
+147,Who is the author of the book 'Kindred'?
+147,How many pages are in the book 'Kindred'?
+147,What is the target audience for the book 'Kindred'?
+148,What is the approximate number of pages in the book 'Dawn' by Octavia E. Butler?
+148,In what year was the book 'Dawn' published?
+148,Which publisher released the book 'Dawn' and who are they?
+148,For whom is the book 'Dawn' primarily targeted?
+148,"What type of writing style is used in 'Dawn', as described by the author?"
+149,What is the series position of 'Adulthood Rites' within 'Lilith's Brood'?
+149,What genres does the book belong to?
+149,In what year was the book published?
+149,How many pages does the book contain?
+149,Who is the author of 'Adulthood Rites'?
+150,What is the publication year of the book 'Imago'?
+150,Which publisher released the book 'Imago'?
+150,How many pages does the book 'Imago' have?
+150,In what year was the book 'Imago' published?
+150,For which audience group is the book 'Imago' primarily intended?
+151,What is the total number of pages in the book?
+151,In what year was the book 'Bloodchild and Other Stories' published?
+151,Who is the author of the book 'Bloodchild and Other Stories'?
+151,What type of context does the book's setting belong to?
+151,Are there any content warnings associated with the book?
+152,What is the publication year of the book 'The Dispossessed'?
+152,How many pages does the book 'The Dispossessed' have?
+152,What genre classification(s) best describes the book 'The Dispossessed'?
+152,"Who is the author of the book 'The Dispossessed', and what is their pen name?"
+152,For which target audience was the book 'The Dispossessed' intended?
+153,What is the series name of the book 'A Wizard of Earthsea'?
+153,In what year was the book 'A Wizard of Earthsea' published by Parnassus Press?
+153,Who is the author of the book 'A Wizard of Earthsea'?
+153,How many pages does the book 'A Wizard of Earthsea' contain?
+153,What age range is the target audience for readers of 'A Wizard of Earthsea'?
+154,What is the publication year of the book 'The Tombs of Atuan'?
+154,"Who is the author of the series 'Earthsea Cycle', which includes 'The Tombs of Atuan'?"
+154,In what position is 'The Tombs of Atuan' within the 'Earthsea Cycle' series?
+154,"What are some of the themes explored in 'The Tombs of Atuan', as identified by the author?"
+154,How many pages does the book 'The Tombs of Atuan' contain?
+155,What is the title of the book?
+155,Who is the author of this book?
+155,In what position does this book sit within its respective series?
+155,How many pages does the book have?
+155,In what year was the book first published?
+156,What genre categories best describe the subgenres listed for this book?
+158,What is the publication year of 'The Other Wind'?
+158,Which author wrote 'The Other Wind'?
+158,What is the target audience for 'The Other Wind'?
+158,How many pages does 'The Other Wind' have?
+158,What are the subgenres of 'The Other Wind'?
+159,What is the series to which The Golden Compass belongs?
+159,Which subgenres does The Golden Compass primarily belong to?
+159,What is the target audience for The Golden Compass book?
+159,How many pages does the book contain?
+159,In what year was The Golden Compass first published?
+160,What is the publication year of 'The Subtle Knife' book?
+160,For what target audience is 'The Subtle Knife' book intended?
+160,How many pages does 'The Subtle Knife' book contain?
+160,In which position is 'The Subtle Knife' within its respective series?
+160,What are some of the subgenres associated with 'The Subtle Knife' book?
+161,"What is the publication year of 'The Amber Spyglass', and how many pages does it have?"
+161,"Who is the author of 'The Amber Spyglass', and what series does this book belong to?"
+161,"In which position within its series does 'The Amber Spyglass' fall, according to the metadata?"
+161,"What genres or subgenres is 'The Amber Spyglass' classified under, based on the provided information?"
+161,"Is the target audience of 'The Amber Spyglass' primarily focused towards young adult readers, and what genre-specific categories can be found within this metadata?"
+162,What is the title of the book and its position within a series?
+162,"What genres does this book belong to, according to the provided metadata?"
+162,In what themes can readers expect to find themselves while reading this book?
+162,How many pages are in the hardcover edition of La Belle Sauvage?
+162,In what year was La Belle Sauvage first published?
+163,"What is the series name of this book, and what is its position within that series?"
+163,"In what subgenres is this book classified, according to its metadata?"
+163,"How many pages does this book contain, as stated by its publisher?"
+163,"Who is the target audience for this book, based on its metadata?"
+163,"What is the tone of this book's writing style, as described by its author?"
+164,Is 'Jonathan Strange & Mr Norrell' part of a larger series?
+164,Who is the author of the book
+164,"What type of genre does the book belong to (e.g. Historical fantasy, Magical realism)?"
+164,How many pages are in the book?
+164,When was the book published?
+165,What is the publication year of the book 'Piranesi'?
+165,What is the target audience for the book 'Piranesi'?
+165,How many pages does the book 'Piranesi' have?
+165,In what year was the book 'Piranesi' published by its original publisher?
+165,Which subgenres are associated with the book 'Piranesi'?
+166,What is the target audience for this book according to its metadata?
+166,How many pages does the book have?
+166,In what year was this book first published?
+166,What style of writing is used in this book as described by its author?
+166,To what extent is technology emphasized in this book's setting?
+167,What is the position of the Hogfather book within its respective series?
+167,What genres and themes does this Discworld book belong to?
+167,How many pages long is this edition of the book?
+167,In what year was this book first published by N/A publisher?
+167,Which audience type does this fantasy novel primarily cater to?
+168,Is this book part of a series?
+168,Was Terry Pratchett the sole author of this book?
+168,What is the position of this book within its respective series?
+168,What genres or subgenres does this book belong to?
+168,What year did the publisher release this book?
+169,What is the page count of the book 'Going Postal'?
+169,In what year was the book 'Going Postal' published?
+169,Who is the author of the book 'Going Postal'?
+169,What is the target audience for the book 'Going Postal'?
+169,"How would you describe the tone of the book 'Going Postal', based on the provided metadata?"
+170,What is the page count of the book Thud!
+170,In what year was the book Thud! published?
+170,Who is the target audience for the book Thud!
+170,How many books are in the Discworld series that includes Thud!
+170,What genre classification best describes the writing style of the book Thud!
+171,"What is the publication year of the book 'The Lion, the Witch and the Wardrobe'?"
+171,"Which publisher released the book 'The Lion, the Witch and the Wardrobe' in 1950?"
+171,"To what extent is the target audience for 'The Lion, the Witch and the Wardrobe' described as children or fantasy readers?"
+171,"What is the page count of the book 'The Lion, the Witch and the Wardrobe', according to its metadata?"
+171,"Which technology focus is depicted in the magical land of Narnia, as described in the book's metadata?"
+172,What is the page count of Prince Caspian?
+172,In what year was Prince Caspian published by Geoffrey Bles?
+172,"To whom is Prince Caspian primarily targeted, according to the book's metadata?"
+172,Which subgenres categorize Prince Caspian within the world of children's fantasy and Christian allegory?
+172,How many pages long is the book Prince Caspian?
+173,What is the publication year of the book?
+173,Who is the author of this book?
+173,What is the target audience for this book?
+173,How many pages does the book have?
+173,In what series does this book belong?
+174,What is the publication year of the book 'The Silver Chair'?
+174,In what position does the book 'The Silver Chair' stand within 'The Chronicles of Narnia' series?
+174,What are some of the subgenres associated with the book 'The Silver Chair'?
+174,How many pages are in the book 'The Silver Chair'?
+174,Who is the publisher of the book 'The Silver Chair'?
+175,What is the publication year of 'The Horse and His Boy'?
+175,In what position does 'The Horse and His Boy' fall within The Chronicles of Narnia series?
+175,What is the approximate page count of the book 'The Horse and His Boy'?
+175,Who is the target audience for the book 'The Horse and His Boy'?
+175,"Is 'The Horse and His Boy' considered to have a technological focus on pre-industrial base, magic systems, alchemy, or mechanical devices?"
+176,What is the publication year of The Magician's Nephew?
+176,Who is the author of The Magician's Nephew?
+176,How many pages does the book have?
+176,What type of content warnings does the book contain?
+176,In what series position does The Magician's Nephew fall?
+177,Is The Last Battle a part of 'The Chronicles of Narnia' series?
+177,The publication year of the book is 1956.
+177,Which subgenres does the book belong to?
+177,What is the page count of The Last Battle?
+177,The target audience for this book includes both children and fantasy readers.
+179,The book 'The Black Company' by Glen Cook was published in what year?
+179,What is the approximate page count of 'The Black Company' book?
+179,"Who is the narrator of 'The Black Company', and what type of narration do they use?"
+179,What is the main focus of 'The Black Company' from a technological standpoint?
+179,"To whom would you recommend 'The Black Company' primarily, based on its target audience?"
+180,What is the publication year of Shadows Linger?
+180,"Which author wrote Shadows Linger, and what is their series position within The Black Company?"
+180,How many pages are in Shadows Linger?
+180,"In what genre does Shadows Linger primarily fall under, according to its subgenres?"
+180,Is Shadows Linger suitable for adult readers and fantasy fans?
+181,"What is the position of The White Rose within Glen Cook's series, The Black Company?"
+181,In what year was The White Rose published?
+181,To what extent is violence depicted in The White Rose according to its content warnings?
+181,"Which subgenres categorize The White Rose, as per its metadata?"
+181,"What is the target audience for which The White Rose is primarily intended, based on the publisher's information?"
+182,Is 'Gardens of the Moon' part of the Malazan Book of the Fallen series?
+182,The publication year of 'Gardens of the Moon' is
+182,What is the total number of pages in 'Gardens of the Moon'?
+182,In what type of fantasy genre does 'Gardens of the Moon' primarily fall?
+182,Who is the author of the book 'Gardens of the Moon'?
+183,What is the series position of the book 'Deadhouse Gates' within the Malazan Book of the Fallen series?
+183,Who is the author of the book 'Deadhouse Gates'?
+183,What is the page count of the book 'Deadhouse Gates'?
+183,In what year was the book 'Deadhouse Gates' published?
+183,What is the target audience for the book 'Deadhouse Gates'?
+184,What is the publication year of the book 'Memories of Ice'?
+184,Who is the author of the book 'Memories of Ice'?
+184,"In what position does the book 'Memories of Ice' fall within its series, the Malazan Book of the Fallen?"
+184,How many pages are in the book 'Memories of Ice'?
+184,"What is the intended audience for the book 'Memories of Ice', according to the publisher?"
+185,What is the total page count of 'House of Chains'?
+185,In what year was 'House of Chains' published by Bantam (UK)?
+185,Which author wrote the book 'House of Chains'?
+185,To which series does 'House of Chains' belong and in what position is it?
+185,What subgenres categorize 'House of Chains' as a part of?
+186,What is the publication year of 'Midnight Tides'?
+186,For which series does 'Midnight Tides' belong and what is its position within that series?
+186,"To whom is the book primarily targeted by the author, based on the publisher's information?"
+186,How many pages are there in 'Midnight Tides'?
+186,In which subgenres can 'Midnight Tides' be classified?
+187,What is the number of pages in the book The Bonehunters?
+187,Who published 'The Bonehunters' in both the UK and US markets?
+187,In what position is 'The Bonehunters' located within the Malazan Book of the Fallen series?
+187,Which genres categorize 'The Bonehunters' according to its subgenres?
+187,What are some of the themes explored in the book The Bonehunters?
+188,Does the book 'Reaper's Gale' by Steven Erikson belong to the Malazan Book of the Fallen series?
+188,What is the page count of the book 'Reaper's Gale'?
+188,Who is the publisher of the book 'Reaper's Gale' in the UK and US?
+188,What is the target audience for the book 'Reaper's Gale'?
+188,"How many pages are in the 7th installment of the Malazan Book of the Fallen series, titled 'Reaper's Gale'?"
+189,What is the publication year of the book 'Toll the Hounds'?
+189,Which publisher released the book 'Toll the Hounds' in the United States?
+189,How many pages does the book 'Toll the Hounds' contain?
+189,What type of technology focus is prominent in the writing of 'Toll the Hounds'?
+189,Who is the author of the book 'Toll the Hounds'?
+190,What is the publication year of 'Dust of Dreams'?
+190,Who is the author of the book 'Dust of Dreams'?
+190,In what series position does 'Dust of Dreams' fall within?
+190,What are the subgenres associated with the book 'Dust of Dreams'?
+190,How many pages are in the book 'Dust of Dreams'?
+191,What is the publication year of 'The Crippled God'?
+191,Which publisher released 'The Crippled God' in the UK and the US?
+191,How many pages does the book 'The Crippled God' have?
+191,In what year was 'The Crippled God' published?
+191,For whom is the target audience of 'The Crippled God' designated?
