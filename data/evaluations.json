@@ -1,0 +1,1505 @@
+[
+  {
+    "id": 0,
+    "question": "What is the publication year of the book Dune?",
+    "answer_llm": "The context does not provide information about a specific book titled \"Dune\". However, it does mention that there are multiple books and adaptations associated with the name \"Dune\".\n\nIf you'd like to know the publication years for different titles related to the \"Dune\" franchise, I can help with that.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "Does not provide relevant publication year for a specific 'Dune' book title"
+    }
+  },
+  {
+    "id": 2,
+    "question": "What is the page count of the book 'The Left Hand of Darkness'?",
+    "answer_llm": "According to the metadata, \"The Left Hand of Darkness\" by Ursula K. Le Guin has 272 pages.",
+    "evaluation": {
+      "Relevance": "RELEVANT",
+      "Explanation": "The answer directly addresses the question about page count."
+    }
+  },
+  {
+    "id": 3,
+    "question": "What is the publication year of the book \"Foundation\"?",
+    "answer_llm": "The publication year of the book \"Foundation\" by Isaac Asimov was 1951.",
+    "evaluation": {
+      "Relevance": null,
+      "Explanation": "{\n  \"Relevance\": \"PARTLY_RELEVANT\",\n  \"Explanation\": \"The answer provides the publication year, but not all the information requested (author) in the original question.\""
+    }
+  },
+  {
+    "id": 4,
+    "question": "What is the publication year of the book 'The Hobbit'?",
+    "answer_llm": "The publication year of \"The Hobbit\" by J.R.R. Tolkien is 1937.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "the year is correct but the question was not about a specific edition or translation of the book"
+    }
+  },
+  {
+    "id": 5,
+    "question": "What is the publication year of the book 'A Game of Thrones'?",
+    "answer_llm": "The publication year of the book 'A Game of Thrones' is 1996.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The generated answer only provides the publication year, but not any context or information about the book 'A Game of Thrones', which is likely a series. The question specifically asks for the publication year of the first book in the series."
+    }
+  },
+  {
+    "id": 7,
+    "question": "What is the page count of The Way of Kings?",
+    "answer_llm": "Based on the context, I don't have a specific page count for \"The Way of Kings\". However, according to my knowledge cutoff in December 2023, the page count for \"The Way of Kings\" by Brandon Sanderson is approximately 1,083 pages.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The answer provides the page count, but it's not a direct answer to the question about the page count itself."
+    }
+  },
+  {
+    "id": 8,
+    "question": "What is the publication year of the book 'The Fifth Season'?",
+    "answer_llm": "The publication year of the book \"The Fifth Season\" is 2015.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The question asked for the book's publication year, but the answer only provided the author's name."
+    }
+  },
+  {
+    "id": 9,
+    "question": "What is the publication year of Ender's Game?",
+    "answer_llm": "The publication year of Ender's Game is 1985.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The question asks for the publication year of Ender's Game, but the answer does not specify which work it refers to (book or film), making the information partially relevant."
+    }
+  },
+  {
+    "id": 10,
+    "question": "What is the number of pages in the book 'Hyperion'?",
+    "answer_llm": "I don't see any information about the page count for \"Hyperion\" in the provided context. However, I can suggest that you provide more context or details about the book, such as its author (Dan Simmons) and publication date, which might help me find the correct information.\n\nIf you meant to ask about another book, please provide more context, and I'll do my best to assist you!",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "contains some relevant information but lacks specific page count"
+    }
+  },
+  {
+    "id": 11,
+    "question": "What is the publication year of the book 'Leviathan Wakes'?",
+    "answer_llm": "The publication year of the book \"Leviathan Wakes\" is 2011.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The answer mentions the book title and publication year, but lacks context about the book itself."
+    }
+  },
+  {
+    "id": 12,
+    "question": "What is the publication year of this book?",
+    "answer_llm": "I'm ready to help, but I don't see any book metadata in the context you provided. Please provide the context or the book's title, author, and any other relevant information so I can assist you with determining the publication year.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "Context not provided for the book metadata"
+    }
+  },
+  {
+    "id": 13,
+    "question": "What is the page count of the book 'The Stone Sky'?",
+    "answer_llm": "I don't see any information about the book \"The Stone Sky\" in the provided context. Could you please provide more details or metadata about this book, such as the author or publisher? I'll be happy to help you with your question once I have more information.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "the question asks for a specific piece of information not present in the provided context"
+    }
+  },
+  {
+    "id": 14,
+    "question": "What is the target audience for the book 'Children of Time'?",
+    "answer_llm": "I don't have any information about a book titled \"Children of Time\" in the provided context. Could you please provide more metadata or details about the book, such as author or publication date? I'll be happy to help with my next question.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "No information about the book was provided in the query."
+    }
+  },
+  {
+    "id": 15,
+    "question": "What is the total page count of 'Children of Ruin'?",
+    "answer_llm": "The context does not provide information about the book \"Children of Ruin\". However, it does mention that I can help with fantasy and sci-fi books. If you provide more context or information about a specific book, such as its title, author, or genre, I'd be happy to try and assist you further.",
+    "evaluation": {
+      "Relevance": null,
+      "Explanation": "{\n  \"Relevance\": \"NON_RELEVANT\",\n  \"Explanation\": \"The question asks for a specific page count, which is not provided in the response.\""
+    }
+  },
+  {
+    "id": 16,
+    "question": "What is the publication year of the book 'The Forever War'?",
+    "answer_llm": "The publication year of the book 'The Forever War' is 1974.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": ""
+    }
+  },
+  {
+    "id": 17,
+    "question": "What is the publication year of the book 'Old Man's War'?",
+    "answer_llm": "The publication year of the book 'Old Man's War' is 2005.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The generated answer provides a specific year, but lacks context about the book 'Old Man's War'."
+    }
+  },
+  {
+    "id": 18,
+    "question": "What is the title of the first book in Kim Stanley Robinson's Mars Trilogy?",
+    "answer_llm": "The title of the first book in Kim Stanley Robinson's Mars Trilogy is \"Red Mars\".",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The answer provides the title, but it does not specify which one in the trilogy (e.g., first book)"
+    }
+  },
+  {
+    "id": 19,
+    "question": "What is the publication year of the book 'Green Mars'?",
+    "answer_llm": "The publication year of the book \"Green Mars\" by Kim Stanley Robinson is 1994.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "It provides the book title, but not its publication year."
+    }
+  },
+  {
+    "id": 20,
+    "question": "What is the series position of 'Blue Mars' within its respective series?",
+    "answer_llm": "I'm not seeing any context or information about a book titled \"Blue Mars\". Can you please provide more information about the book, such as the author or publication date? I'll be happy to help answer your question once I have that context.",
+    "evaluation": {
+      "Relevance": "RELEVANT",
+      "Explanation": "The response asks for context to answer the question, which is provided"
+    }
+  },
+  {
+    "id": 21,
+    "question": "What is the page count of the book 'Snow Crash'?",
+    "answer_llm": "The page count of the book 'Snow Crash' is 416 pages.",
+    "evaluation": {
+      "Relevance": "RELEVANT",
+      "Explanation": ""
+    }
+  },
+  {
+    "id": 23,
+    "question": "What is the publication year of 'The Three-Body Problem'?",
+    "answer_llm": "The publication year of \"The Three-Body Problem\" is 2008.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The answer provides the publication year, but does not mention the title or author."
+    }
+  },
+  {
+    "id": 24,
+    "question": "What is the publication year of the book 'The Dark Forest', and who published it?",
+    "answer_llm": "Based on the provided context, I couldn't find the exact information about \"The Dark Forest\" book. However, I found that \"The Dark Forest\" by Yangsze Choo was published in 2020. The publisher of this book is HarperCollins UK (for the British market) and HarperCollins Publishers (in the United States).",
+    "evaluation": {
+      "Relevance": null,
+      "Explanation": "{\n  \"Relevance\": \"PARTLY_RELEVANT\",\n  \"Explanation\": \"it partially answers the first part of the question (publication year), but not the second part\""
+    }
+  },
+  {
+    "id": 25,
+    "question": "Who is the author of the book 'Death's End'?",
+    "answer_llm": "The context doesn't provide enough information about a specific book called \"Death's End\". However, based on my general knowledge, I can tell you that Liu Cixin wrote the science fiction novel \"Death's End\", which was the final book in his Remembrance of Earth's Past trilogy.",
+    "evaluation": {
+      "Relevance": "RELEVANT",
+      "Explanation": "The answer provides the correct author, meeting the question's requirements."
+    }
+  },
+  {
+    "id": 26,
+    "question": "What is the publication year of the book 'Ringworld'?",
+    "answer_llm": "The publication year of the book \"Ringworld\" by Larry Niven is 1970.",
+    "evaluation": {
+      "Relevance": null,
+      "Explanation": "{\n  \"Relevance\": \"NON_RELEVANT\",\n  \"Explanation\": \"The answer only provides the publication year, but it does not directly address the question of relevance to the context of the Ringworld series or its impact on the science fiction genre.\""
+    }
+  },
+  {
+    "id": 27,
+    "question": "What is the publication year of the book 'The Mote in God's Eye'?",
+    "answer_llm": "The publication year of the book 'The Mote in God's Eye' is 1974.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "Answer provides the correct publication year but lacks additional context or details."
+    }
+  },
+  {
+    "id": 28,
+    "question": "What is the publication year of the book Altered Carbon?",
+    "answer_llm": "The publication year of the book \"Altered Carbon\" by Richard K. Morgan is 2002.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The answer provides the publication year, but it does not fully address the question's request for the book's title as well."
+    }
+  },
+  {
+    "id": 29,
+    "question": "What is the publication year of the book 'Revelation Space'?",
+    "answer_llm": "The publication year of the book \"Revelation Space\" by Alastair Reynolds is 2000.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "Answer provides the publication year, but doesn't address the book title in the question"
+    }
+  },
+  {
+    "id": 30,
+    "question": "What is the publication year of the book 'Chasm City'?",
+    "answer_llm": "The context doesn't provide enough information about the book \"Chasm City\". However, I can tell you that Chasm City is a novel by China Miéville, and according to my knowledge, it was published in 2001. If this isn't the correct publication year for the specific book from your database, please provide more context or details, and I'll do my best to help.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "Answer provides the book title, but lacks specific publication year for the query's database"
+    }
+  },
+  {
+    "id": 31,
+    "question": "What is the publication year of Perdido Street Station?",
+    "answer_llm": "The publication year of Perdido Street Station is 2000.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "Year and book title mentioned, but not exact answer."
+    }
+  },
+  {
+    "id": 32,
+    "question": "What is the page count of the book 'The Scar'?",
+    "answer_llm": "I don't have any information about a book called \"The Scar\" in the provided context. Can you please provide more details or clarify which book's metadata you would like me to access?",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "Context of the question is not provided in the system metadata."
+    }
+  },
+  {
+    "id": 33,
+    "question": "What is the publication year of the book 'Iron Council'?",
+    "answer_llm": "The publication year of the book \"Iron Council\" by China Miéville is 2004.",
+    "evaluation": {
+      "Relevance": "RELEVANT",
+      "Explanation": "Answer directly addresses the question"
+    }
+  },
+  {
+    "id": 34,
+    "question": "What is the publication year of this book?",
+    "answer_llm": "I'm ready to help. Please provide the book metadata, and I'll answer your question based on the context.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The answer requires a specific piece of metadata about the book, but the generated response is asking for more context instead of providing the answer."
+    }
+  },
+  {
+    "id": 35,
+    "question": "What are the subgenres associated with this book?",
+    "answer_llm": "I'm ready to help. Please provide the book metadata so I can answer your question about its subgenres.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The answer is asking for information about the book, but the generated response asks for metadata instead of providing subgenres."
+    }
+  },
+  {
+    "id": 36,
+    "question": "What is the publication year of the book Good Omens?",
+    "answer_llm": "The publication year of the book \"Good Omens\" is 1990.",
+    "evaluation": {
+      "Relevance": null,
+      "Explanation": "{\n  \"Relevance\": \"PARTLY_RELEVANT\",\n  \"Explanation\": \"The answer provides the publication year, but lacks information about the book's title, author, or relevance to other books.\""
+    }
+  },
+  {
+    "id": 37,
+    "question": "What is the publication year of the book Small Gods?",
+    "answer_llm": "The publication year of the book \"Small Gods\" by Terry Pratchett is 1992.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The question asks for the publication year, which is a specific detail about the book. The answer only provides this information without addressing how to find more details or context."
+    }
+  },
+  {
+    "id": 38,
+    "question": "Who is the author of 'The Colour of Magic'?",
+    "answer_llm": "The author of 'The Colour of Magic' is Terry Pratchett.",
+    "evaluation": {
+      "Relevance": null,
+      "Explanation": "{\n  \"Relevance\": \"NON_RELEVANT\",\n  \"Explanation\": \"The answer is too specific, only addressing the question about a book title without providing any additional relevant context or information.\""
+    }
+  },
+  {
+    "id": 39,
+    "question": "What is the publication year of the book 'Guards! Guards!'?",
+    "answer_llm": "The publication year of the book 'Guards! Guards!' is 1989.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The answer provides the publication year, but does not directly address a question about the book's content or plot."
+    }
+  },
+  {
+    "id": 40,
+    "question": "What is the title of the book and who is its author?",
+    "answer_llm": "I'm ready to help! However, I don't see any context provided. Please provide the book metadata or a brief description, and I'll be happy to answer your question about the title and author of the book.",
+    "evaluation": {
+      "Relevance": null,
+      "Explanation": "{\n  \"Relevance\": \"NON_RELEVANT\",\n  \"Explanation\": \"Answer requires additional context to provide a relevant response\""
+    }
+  },
+  {
+    "id": 41,
+    "question": "What is the publication year of the book Red Seas Under Red Skies?",
+    "answer_llm": "The publication year of the book \"Red Seas Under Red Skies\" is 2007.",
+    "evaluation": {
+      "Relevance": null,
+      "Explanation": "{\n  \"Relevance\": \"RELEVANT\",\n  \"Explanation\": \"The answer directly addresses the question about the publication year of the book 'Red Seas Under Red Skies'\""
+    }
+  },
+  {
+    "id": 42,
+    "question": "What is the title of the book being evaluated?",
+    "answer_llm": "I'm ready to help. Please go ahead and provide the context, including any relevant metadata about the book you'd like me to evaluate. I'll do my best to answer your question based on the facts from the context.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The response is too general and does not directly address the question about the title of the book."
+    }
+  },
+  {
+    "id": 43,
+    "question": "What is the publication year of the book \"The Blade Itself\"?",
+    "answer_llm": "The publication year of the book \"The Blade Itself\" is 2006.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The generated answer provides the publication year, but it's not clear if it's referring to the specific book 'The Blade Itself' without more context."
+    }
+  },
+  {
+    "id": 44,
+    "question": "What is the publication year of the book?",
+    "answer_llm": "I'm ready to help. However, I don't see any book metadata in the context you provided. Could you please provide more information about the book, such as its title or author? That way, I can help answer your question based on that specific book's publication year.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "Generated answer asks for clarification on the context of the question instead of providing a direct answer."
+    }
+  },
+  {
+    "id": 45,
+    "question": "What is the publication year of the book 'Last Argument of Kings'?",
+    "answer_llm": "The publication year of the book \"Last Argument of Kings\" by Joe Abercrombie is 2008.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The answer provides the publication year, but does not address the book's plot or any specific question related to it."
+    }
+  },
+  {
+    "id": 46,
+    "question": "What is the publication year of the book The Gunslinger?",
+    "answer_llm": "The publication year of the book \"The Gunslinger\" is 1982.",
+    "evaluation": {
+      "Relevance": null,
+      "Explanation": "{\n  \"Relevance\": \"PARTLY_RELEVANT\",\n  \"Explanation\": \"The answer provides the publication year, but it's not specified which book 'The Gunslinger' refers to, as there are multiple books with that title.\""
+    }
+  },
+  {
+    "id": 47,
+    "question": "What is the position of this book within its series?",
+    "answer_llm": "I'm ready to help. Please go ahead and provide the book metadata, and I'll be happy to answer the question about the position of the book within its series.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "Answer requires additional context or metadata about the book series."
+    }
+  },
+  {
+    "id": 48,
+    "question": "What is the series position of the book within its overall series?",
+    "answer_llm": "I'm ready to help. However, I don't see any context provided in your question. Could you please provide the book metadata (series position) information so I can assist you accordingly?",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The answer is related to the book, but it asks for a different piece of information (series metadata)"
+    }
+  },
+  {
+    "id": 49,
+    "question": "What is the page count of the book 'Wizard and Glass'?",
+    "answer_llm": "I don't see a mention of the book \"Wizard and Glass\" in the context. The context seems to be empty. Can you please provide more information about the book or its metadata? I'll do my best to help once I have that information.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The generated answer is not relevant because it requests additional information instead of providing a solution to the question."
+    }
+  },
+  {
+    "id": 50,
+    "question": "What is the page count of the book, and was it published by a single publisher or multiple publishers?",
+    "answer_llm": "You haven't provided any context yet. Please provide the book metadata from the database, such as the title, author, publication date, and any other relevant information, and I'll be happy to help answer your question about the page count and publishing history of the book.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "Does not address the question directly"
+    }
+  },
+  {
+    "id": 51,
+    "question": "What is the publication year of The Stand?",
+    "answer_llm": "The publication year of \"The Stand\" is 1958.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The generated answer is partially relevant as it provides the publication year, but not the specific book 'The Stand' which might be a different work from Stephen King's novel with the same title."
+    }
+  },
+  {
+    "id": 52,
+    "question": "What is the publication year of the book Dracula?",
+    "answer_llm": "The publication year of the book \"Dracula\" is 1897.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The answer is partially relevant, as it provides the publication year of Dracula, but does not address a specific question about the book's impact or context."
+    }
+  },
+  {
+    "id": 55,
+    "question": "What is the estimated number of pages in this book?",
+    "answer_llm": "I'm ready to help. Please provide the book metadata, and I'll do my best to answer your question based on the context.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The answer asks for metadata, but the RAG system is ready to help without specific context."
+    }
+  },
+  {
+    "id": 56,
+    "question": "What is the publication year of Fahrenheit 451?",
+    "answer_llm": "The answer is not explicitly stated in the provided context, but according to my knowledge outside of this conversation, the publication year of Fahrenheit 451 by Ray Bradbury is 1953.",
+    "evaluation": {
+      "Relevance": "RELEVANT",
+      "Explanation": "The generated answer provides the exact information requested, despite being outside of the provided context."
+    }
+  },
+  {
+    "id": 57,
+    "question": "What is the publication year of 'Something Wicked This Way Comes'?",
+    "answer_llm": "The publication year of 'Something Wicked This Way Comes' is 1983.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The question asks for the publication year of a specific book, but the answer only provides this information without referencing the book's title."
+    }
+  },
+  {
+    "id": 58,
+    "question": "What is the page count of this book?",
+    "answer_llm": "I'm ready to help. Please provide the book metadata, and I'll answer your question about the page count.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "the generated answer requires input to function, which is not provided in the question."
+    }
+  },
+  {
+    "id": 59,
+    "question": "What is the author of the book 'Project Hail Mary'?",
+    "answer_llm": "The author of the book \"Project Hail Mary\" is Andy Weir.",
+    "evaluation": {
+      "Relevance": "RELEVANT",
+      "Explanation": "Directly answers the question about the book's author."
+    }
+  },
+  {
+    "id": 61,
+    "question": "What is the publication year of the book 'Abaddon's Gate'?",
+    "answer_llm": "The publication year of the book \"Abaddon's Gate\" is 2013.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The question asks for a book title and publication year, while the answer only provides the publication year."
+    }
+  },
+  {
+    "id": 62,
+    "question": "What is the publication year of 'Cibola Burn', and was it published by a major publisher?",
+    "answer_llm": "The CONTEXT mentions \"Cibola Burn\", but no specific details are provided. However, I can tell you that \"Cibola Burn\" is actually the second book in the Illuminae Files trilogy.\n\nAccording to my knowledge, the first book in the trilogy, \"Illuminae\", was published in 2015 by Flux and Orbit Books (a major publisher).\n\nThe publication year of \"Cibola Burn\" is 2016, and it was also published by a major publisher, specifically Orbit Books.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "Answer provides the correct publication year and publisher, but does not address the first part of the question regarding 'Cibola Burn' itself."
+    }
+  },
+  {
+    "id": 65,
+    "question": "What is the publication year of the book 'Tiamat's Wrath'?",
+    "answer_llm": "The publication year of the book 'Tiamat's Wrath' is 2019.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The answer provides the publication year, but lacks the title of the book."
+    }
+  },
+  {
+    "id": 66,
+    "question": "Is this book part of a series, and if so, what is the position of this book within that series?",
+    "answer_llm": "I'm ready to help. Please go ahead and provide the book metadata (context) for the question, and I'll answer based on that information.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "it prompts the user to provide more context"
+    }
+  },
+  {
+    "id": 67,
+    "question": "What is the publication year of the book 'Storm Front'?",
+    "answer_llm": "The publication year of the book \"Storm Front\" is 1999.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The question asked for the book title, not publication year."
+    }
+  },
+  {
+    "id": 68,
+    "question": "What is the publication year of the book 'Fool Moon'?",
+    "answer_llm": "The context doesn't specify a title for the book, but it does mention 'Fool Moon'. Unfortunately, there isn't enough information to determine the publication year.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The answer provides some information about the title, but lacks necessary details to pinpoint the publication year."
+    }
+  },
+  {
+    "id": 69,
+    "question": "What is the publication year of the book 'Grave Peril'?",
+    "answer_llm": "The publication year of the book \"Grave Peril\" is 2000.",
+    "evaluation": {
+      "Relevance": null,
+      "Explanation": "{\n  \"Relevance\": \"PARTLY_RELEVANT\",\n  \"Explanation\": \"The answer provides the publication year, but lacks a direct response to 'what' about the book 'Grave Peril'\""
+    }
+  },
+  {
+    "id": 70,
+    "question": "What is the series position of the book within The Dresden Files series?",
+    "answer_llm": "I'm ready to help. Please go ahead and provide the context, which includes the metadata for a specific book in the Dresden Files series. I'll answer the question about its series position based on that information.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The answer provides context for answering the question but does not directly state the series position of the book."
+    }
+  },
+  {
+    "id": 71,
+    "question": "What is the publication year of 'Blood Rites'?",
+    "answer_llm": "I don't have information about a book titled \"Blood Rites\" in my context. Can you please provide more details or clarify which book you are referring to? I'd be happy to try and assist you with reading recommendations based on your preferences.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "No publication year provided for a specific book titled \"Blood Rites\""
+    }
+  },
+  {
+    "id": 72,
+    "question": "What is the position of 'Dead Beat' within 'The Dresden Files' series?",
+    "answer_llm": "I'm ready to help. However, I don't see any context provided. Could you please provide the book metadata for \"Dead Beat\" in the \"Dresden Files\" series? I'll be happy to answer your question based on that information.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The answer does not address the question directly and instead requests additional context."
+    }
+  },
+  {
+    "id": 73,
+    "question": "What is the series position of 'Proven Guilty' within The Dresden Files?",
+    "answer_llm": "Based on the provided context, I don't have any information about a book titled \"Proven Guilty\" within The Dresden Files. However, I can tell you that James Marsters played the role of Thomas Raith in the TV series based on The Dresden Files.\n\nIf you could provide more context or clarify which book \"Proven Guilty\" is actually referring to, I would be happy to try and help you with the question.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The answer does not provide information about 'Proven Guilty' in The Dresden Files."
+    }
+  },
+  {
+    "id": 74,
+    "question": "What is the publication year of the book 'Changes'?",
+    "answer_llm": "I'm not able to answer your question about the publication year of \"Changes\" based on the context you provided, as no information about the book's metadata was included in your query. \n\nHowever, I can tell you that there are multiple books with the title \"Changes\". Could you provide more context or specify which book you are referring to?",
+    "evaluation": {
+      "Relevance": "RELEVANT",
+      "Explanation": "The answer provides a valid but incomplete response."
+    }
+  },
+  {
+    "id": 76,
+    "question": "What is the publication year of 'The Hunger Games'?",
+    "answer_llm": "The context does not mention \"The Hunger Games\". However, I can try to find information about it based on general knowledge. According to my knowledge, the publication year of \"The Hunger Games\" by Suzanne Collins is 2008.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The question asks for a specific publication year, but the generated answer does not have that information."
+    }
+  },
+  {
+    "id": 77,
+    "question": "What is the publication year of the book 'Catching Fire'?",
+    "answer_llm": "The context does not provide information about a specific book titled \"Catching Fire\". However, it's worth noting that \"Catching Fire\" is the second book in The Hunger Games trilogy by Suzanne Collins. According to general knowledge, the publication year of the first book in the series, \"The Hunger Games\", is 2008, and the publication year of the third book in the series, also titled \"Catching Fire\", is 2009.\n\nIf you're referring to a different book with the same title, could you please provide more context or information about it?",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "does not provide the specific publication year of 'Catching Fire'"
+    }
+  },
+  {
+    "id": 79,
+    "question": "What is the number of pages in the book Divergent?",
+    "answer_llm": "The page count for \"Divergent\" by Veronica Roth is not specified in the provided context.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The answer mentions the book, but not its page count specifically."
+    }
+  },
+  {
+    "id": 80,
+    "question": "What is the page count of the book 'Insurgent'?",
+    "answer_llm": "I couldn't find any information about the page count of the book \"Insurgent\" in the provided context. However, I can suggest that you check a reliable source such as the book's publisher or a bookstore website for the most up-to-date and accurate page count information.\n\nAlternatively, if you provide more context or details about the book \"Insurgent\", such as its author or publication date, I may be able to help you find the page count.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "Lack of specific information about the book"
+    }
+  },
+  {
+    "id": 81,
+    "question": "What is the publication year of the book Allegiant?",
+    "answer_llm": "The publication year of the book \"Allegiant\" is 2013.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The answer provides the year, but the question asks for the book title 'Allegiant', which is not specified in the response."
+    }
+  },
+  {
+    "id": 82,
+    "question": "What is the page count of the book Annihilation?",
+    "answer_llm": "According to the context, I couldn't find any specific information about the page count of \"Annihilation\". However, I can tell you that \"Annihilation\" is a science fiction novel by Jeff VanderMeer, published in 2014. The book is part of the Southern Reach Trilogy, and it won the Nebula Award for Best Novel in 2014.\n\nIf you're looking for more information about this book or would like to ask another question, feel free to ask!",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "Answer does not provide the specific page count of 'Annihilation'"
+    }
+  },
+  {
+    "id": 83,
+    "question": "What is the publication year of the book 'Authority'?",
+    "answer_llm": "The context doesn't provide enough information about a specific book titled \"Authority\". However, I can tell you that Robert Jordan has a series called \"Wheel of Time\", and one of its books titled \"New Spring\" has a companion novel titled \"The Gathering Storm's\" predecessor - the book \"A Crown of Swords\"'s precursor in timeline, titled 'Crossroad' was not published. But then came  the actual book \"Authority\" , which is also part of Robert Jordan's series. According to my knowledge, that book \"Authority\" actually has a publication year of 2003.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "Answers the specific question about book 'Authority' but requires prior context to be fully relevant"
+    }
+  },
+  {
+    "id": 85,
+    "question": "What is the publication year of this book?",
+    "answer_llm": "I'm ready to help. However, I don't see any context provided in your question. Please provide the book metadata from the database, and I'll do my best to answer your question about the publication year.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The answer provides an alternative solution to the problem, rather than directly answering the question."
+    }
+  },
+  {
+    "id": 86,
+    "question": "What is the number of pages in the book 'World War Z'?",
+    "answer_llm": "I don't see any information about the page count of \"World War Z\" in the provided context. Could you please provide more details or context about the book, such as its author or publication date? I'll do my best to help you find the answer based on the available data.",
+    "evaluation": {
+      "Relevance": null,
+      "Explanation": "{\n  \"Relevance\": \"PARTLY_RELEVANT\",\n  \"Explanation\": \"generated answer acknowledges the question but requests additional context to provide a relevant answer\""
+    }
+  },
+  {
+    "id": 87,
+    "question": "What is the page count of 'The Passage'?",
+    "answer_llm": "According to the context, I don't see any information about a book titled \"The Passage\". However, I can tell you that Justin Cronin wrote a post-apocalyptic epic novel called \"The Passage\" which is the first book in The Passage trilogy. If you'd like more information about this book or would like me to suggest similar books based on the author or genre, please let me know!",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "it mentions the book, but not its page count"
+    }
+  },
+  {
+    "id": 88,
+    "question": "What is the publication year of 'The Twelve'?",
+    "answer_llm": "I'm happy to help you find the publication year of \"The Twelve\"! However, I don't see any information about a book titled \"The Twelve\" in the provided context. Could you please provide more details or metadata about this book, such as the author or publisher? I'll do my best to assist you with your question.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "Lacks specific context to identify the book"
+    }
+  },
+  {
+    "id": 89,
+    "question": "What is the publication year of The City of Mirrors?",
+    "answer_llm": "The City of Mirrors, a novel by Justin Cronin, was published in 2017.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The answer provides the publication year, but does not address the specific question about The City of Mirrors."
+    }
+  },
+  {
+    "id": 90,
+    "question": "What is the publication year of The Silmarillion?",
+    "answer_llm": "The publication year of The Silmarillion is 1977.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": ""
+    }
+  },
+  {
+    "id": 93,
+    "question": "What is the publication year of the book 'The Eye of the World'?",
+    "answer_llm": "Based on the context, I found that \"The Eye of the World\" is a fantasy novel by Robert Jordan. According to my database, the publication year of this book is 1990.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": ""
+    }
+  },
+  {
+    "id": 94,
+    "question": "What is the publication year of the book 'The Great Hunt'?",
+    "answer_llm": "Based on the context, I couldn't find any information about the specific book \"The Great Hunt\". However, I can suggest that you provide more context or details about the book, such as the author or series it belongs to. This will help me narrow down the search and provide a more accurate answer.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "No specific book mentioned, too general"
+    }
+  },
+  {
+    "id": 95,
+    "question": "Is The Dragon Reborn part of a series that is considered epic fantasy?",
+    "answer_llm": "I'm not seeing any context provided about \"The Dragon Reborn\". Could you please provide more information or clarify which book this refers to? I'd be happy to help once I have more details.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "No direct relation to the query, requires context"
+    }
+  },
+  {
+    "id": 96,
+    "question": "What is the series name of this book?",
+    "answer_llm": "I'm ready to help! However, you haven't provided any context for the question about a specific book. Please provide the metadata for the book, such as its title or author, and I'll do my best to answer your question based on that information.",
+    "evaluation": {
+      "Relevance": null,
+      "Explanation": "{\"Relevance\": \" NON_RELEVANT\", \"Explanation\": \"The response requires specific book metadata to answer the question.\" }"
+    }
+  },
+  {
+    "id": 97,
+    "question": "What is the page count of 'The Fires of Heaven'?",
+    "answer_llm": "I don't have any information about a book titled \"The Fires of Heaven\" in my current context. However, I can suggest that \"The Fires of Heaven\" might be the fourth book in the Wheel of Time series by Robert Jordan. \n\nIf this is the correct book, according to some sources, it has approximately 896 pages, but please note that page counts may vary depending on the edition and publication date.\n\nHowever, without more context or information about the exact book you are referring to, I couldn't provide a definitive answer.",
+    "evaluation": {
+      "Relevance": "RELEVANT",
+      "Explanation": "The answer provides information about the book title mentioned in the question."
+    }
+  },
+  {
+    "id": 99,
+    "question": "What is the page count of the book 'A Crown of Swords'?",
+    "answer_llm": "The page count for the book \"A Crown of Swords\" by Robert Jordan is 864 pages.",
+    "evaluation": {
+      "Relevance": "RELEVANT",
+      "Explanation": ""
+    }
+  },
+  {
+    "id": 100,
+    "question": "What is the publication year of the book?",
+    "answer_llm": "I'm ready to help. However, you haven't provided the context with book metadata. Please provide the context or a specific book title and I'll do my best to answer your question about its publication year.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "Answer doesn't address the question about publication year directly"
+    }
+  },
+  {
+    "id": 101,
+    "question": "What is the publication year of the book 'Winter's Heart', and which regions it was published in?",
+    "answer_llm": "Based on the provided database, I can answer that \"Winter's Heart\" is a fantasy novel by Robert Jordan. \n\n The publication year of \"Winter's Heart\" is 2000.\n\nAs for its regions of publication, I do not have this information available.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "Partial information about the book's publication year and lack of info on regions of publication."
+    }
+  },
+  {
+    "id": 102,
+    "question": "What is the publication year of the book 'Crossroads of Twilight'?",
+    "answer_llm": "The context does not provide any information about the book \"Crossroads of Twilight\", so I cannot answer your question. If you could provide more context or details about this book, such as its author or genre, I would be happy to try and help you find the publication year.",
+    "evaluation": {
+      "Relevance": null,
+      "Explanation": "{\n  \"Relevance\": \"PARTLY_RELEVANT\",\n  \"Explanation\": \"The answer attempts to provide a solution but lacks the necessary context or information about the book 'Crossroads of Twilight'\""
+    }
+  },
+  {
+    "id": 103,
+    "question": "What is the page count of the book 'Knife of Dreams'?",
+    "answer_llm": "I don't see any information about the book \"Knife of Dreams\" in the context. Could you please provide more details or clarify which book this refers to? I'll do my best to help once I have the correct information.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "Answer is unrelated to the question and requests clarification."
+    }
+  },
+  {
+    "id": 104,
+    "question": "Is the book 'The Gathering Storm' part of a series?",
+    "answer_llm": "I'm ready to help! However, I don't see any CONTEXT provided. Please share the book metadata for \"The Gathering Storm\" and I'll be happy to answer your question based on the facts from the CONTEXT.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The question asks if 'The Gathering Storm' is part of a series, but no metadata for the book was provided."
+    }
+  },
+  {
+    "id": 105,
+    "question": "What is the book title of the 13th installment in The Wheel of Time series?",
+    "answer_llm": "The answer cannot be determined as there are no additional details in the context.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "Answer provides information related to the book series, but lacks specific details about the 13th installment."
+    }
+  },
+  {
+    "id": 106,
+    "question": "What is the total page count of book 'A Memory of Light'?",
+    "answer_llm": "The total page count of \"A Memory of Light\" by Robert Jordan is 1206 pages.",
+    "evaluation": {
+      "Relevance": "RELEVANT",
+      "Explanation": "The answer directly addresses the question about the page count of a specific book."
+    }
+  },
+  {
+    "id": 108,
+    "question": "What is the publication year of Warbreaker?",
+    "answer_llm": "The publication year of Warbreaker is 2009.",
+    "evaluation": {
+      "Relevance": null,
+      "Explanation": "{\n  \"Relevance\": \"PARTLY_RELEVANT\",\n  \"Explanation\": \"The answer provides the publication year, but lacks context or additional relevant information about Warbreaker.\""
+    }
+  },
+  {
+    "id": 111,
+    "question": "What is the page count of the book 'To Sleep in a Sea of Stars'?",
+    "answer_llm": "The page count of the book \"To Sleep in a Sea of Stars\" by Tom Holt is 416 pages.",
+    "evaluation": {
+      "Relevance": "RELEVANT",
+      "Explanation": "it provides the requested information about the book's page count"
+    }
+  },
+  {
+    "id": 112,
+    "question": "What is the book's publication year?",
+    "answer_llm": "I'm ready to help. Go ahead and provide the context, and I'll answer with the publication year of the book.",
+    "evaluation": {
+      "Relevance": null,
+      "Explanation": "{\n  \"Relevance\": \"NON_RELEVANT\",\n  \"Explanation\": \"Answer does not provide a specific publication year for the book.\""
+    }
+  },
+  {
+    "id": 113,
+    "question": "What is the title of the second book in The Inheritance Cycle series?",
+    "answer_llm": "Based on the provided context, I do not have enough information to answer your question about The Inheritance Cycle series. However, if you provide more context or clarify which series you are referring to, I'll be happy to try and assist you further.\n\nIf you would like to know more general information about book series, feel free to ask!",
+    "evaluation": {
+      "Relevance": null,
+      "Explanation": "{\n  \"Relevance\": \"NON_RELEVANT\",\n  \"Explanation\": \"Does not address the question directly and requires additional information to provide a relevant answer.\""
+    }
+  },
+  {
+    "id": 114,
+    "question": "What is the page count of the book 'Brisingr'?",
+    "answer_llm": "I don't have any information about the book \"Brisingr\" in the context. Could you please provide more details or clarify which book you are referring to? I'll be happy to try and help once I have that information.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "No information about the book is available"
+    }
+  },
+  {
+    "id": 115,
+    "question": "What is the number of pages in the book 'Inheritance'?",
+    "answer_llm": "I'm not seeing any information about the book \"Inheritance\" in the context. Could you please provide more details or metadata about this book, such as its title, author, and publication date? I'll be happy to help answer your question once I have that information.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "Generated answer requests additional information about the book 'Inheritance', rather than providing a direct answer to the question."
+    }
+  },
+  {
+    "id": 116,
+    "question": "What is the publication year of the book 'The Sword of Shannara'?",
+    "answer_llm": "The publication year of the book \"The Sword of Shannara\" is 1977.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The answer provides the publication year, but it doesn't specify if it's the original or a re-release year."
+    }
+  },
+  {
+    "id": 117,
+    "question": "What is the publication year of 'The Elfstones of Shannara'?",
+    "answer_llm": "The publication year of \"The Elfstones of Shannara\" by Terry Brooks is 1982.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The generated answer is not related to the publication year of a book, it is a general statement about book publication years."
+    }
+  },
+  {
+    "id": 118,
+    "question": "What is the publication year of 'The Wishsong of Shannara'?",
+    "answer_llm": "The publication year of \"The Wishsong of Shannara\" is 1985.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": ""
+    }
+  },
+  {
+    "id": 119,
+    "question": "What is the publication year of Shadows of Self?",
+    "answer_llm": "The publication year of Shadows of Self is 2015.",
+    "evaluation": {
+      "Relevance": null,
+      "Explanation": "{\n  \"Relevance\": \"PARTLY_RELEVANT\",\n  \"Explanation\": \"The question asks for a specific publication year, but the answer only provides a general statement.\""
+    }
+  },
+  {
+    "id": 120,
+    "question": "What is the series name of the book Bands of Mourning, and what is its position within the series?",
+    "answer_llm": "I'm ready to help. Please go ahead and provide the context about the book \"Bands of Mourning\". I'll use the metadata from the database to answer your question about the series name and its position.",
+    "evaluation": {
+      "Relevance": "RELEVANT",
+      "Explanation": "Answer directly addresses the question about book series name and position."
+    }
+  },
+  {
+    "id": 121,
+    "question": "What is the publication year of 'The Alloy of Law'?",
+    "answer_llm": "The context doesn't provide a specific book, but it does mention \"The Alloy of Law\". Based on my knowledge, I can tell that \"The Alloy of Law\" is a fantasy novel by Brandon Sanderson, and its publication year is 2011.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The question asks for a specific publication year, but the answer provides additional context not requested by the question."
+    }
+  },
+  {
+    "id": 123,
+    "question": "What is the typical audience for this book, as indicated by the publisher?",
+    "answer_llm": "I'm ready to help. Please go ahead and provide the context, including the book metadata from your database. I'll use that information to answer your question about the typical audience for the book, as indicated by the publisher.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The question asks for the publisher's indication of the book's audience, but no context is provided."
+    }
+  },
+  {
+    "id": 124,
+    "question": "What is the publication year of the book?",
+    "answer_llm": "I'm happy to help you with your question, but it seems like you forgot to provide the context for the question. Please go ahead and share the metadata for the book, such as its title, author, or genre, so I can give you an accurate answer.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "answer requires additional context to be relevant"
+    }
+  },
+  {
+    "id": 125,
+    "question": "What is the publication year of the book \"The Time Machine\"?",
+    "answer_llm": "According to the context, the book \"The Time Machine\" was written by H.G. Wells and published in 1895.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "It provides the author and year, but lacks the specific question about publication year."
+    }
+  },
+  {
+    "id": 127,
+    "question": "What is the publication year of 'The Invisible Man'?",
+    "answer_llm": "I don't have enough information in the context to answer that question. The context provides metadata for a book, but it does not specify which book \"The Invisible Man\" refers to. Can you please provide more context or clarify which book's metadata you are referring to? I'll be happy to try and help you find the publication year.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The answer provides a hint towards finding the publication year, but does not directly answer the question."
+    }
+  },
+  {
+    "id": 128,
+    "question": "What is the publication year of the book?",
+    "answer_llm": "I'm ready to help. However, I don't see any context provided in your question. Please provide the book metadata, and I'll be happy to answer the question about the publication year.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "Answer requires specific book metadata not provided in the question"
+    }
+  },
+  {
+    "id": 130,
+    "question": "What is the publication year of the book?",
+    "answer_llm": "I'm ready to help with the question about publication year! However, I don't see any context provided. Please provide the book metadata, and I'll be happy to answer your question based on the facts from the context.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "No context provided to determine publication year"
+    }
+  },
+  {
+    "id": 131,
+    "question": "What is the publication year of the book 'Roadside Picnic'?",
+    "answer_llm": "The context doesn't provide a clear answer to the question, as it does not mention the title \"Roadside Picnic\". However, I can tell you that there are two books by Arkady and Boris Strugatsky with this title:\n\n1. Roadside Picnic (Russian: Пикник на даче, Piknik na dache) - The book is mentioned in the context as a classic of science fiction.\n2. There's also an English translation published later.\n\nPlease provide more context or clarify which \"Roadside Picnic\" you are referring to, and I'll be happy to help.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "does not directly answer the question about 'Roadside Picnic' book publication year"
+    }
+  },
+  {
+    "id": 132,
+    "question": "Was the book written by two authors, or was it a single author?",
+    "answer_llm": "I'm ready to help. Please go ahead and provide the context for the book you'd like me to answer about. I'll use the metadata from the provided database to determine if the book was written by one author or two.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "Answer acknowledges the need for context, but fails to provide direct information about the book's authors"
+    }
+  },
+  {
+    "id": 133,
+    "question": "What is the publication year of the book 'The Power'?",
+    "answer_llm": "Based on the provided context, I don't see any information about the book \"The Power\". Can you please provide more context or details about the book, such as its title, author, or genre? This will help me to better assist you in answering your question.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "No direct context provided about the book"
+    }
+  },
+  {
+    "id": 134,
+    "question": "What is the page count of the book 'The Handmaid's Tale'?",
+    "answer_llm": "I don't have information about a specific book called \"The Handmaid's Tale\" in the provided context. However, I can tell you that there are multiple books with this title by Margaret Atwood.\n\nIf you provide more context or clarify which specific book you're referring to, I'd be happy to help.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "Provides relevant information, but lacks specific detail for the asked question."
+    }
+  },
+  {
+    "id": 136,
+    "question": "What is the series name of this book, and what is its position within that series?",
+    "answer_llm": "I'm ready to help. Please provide the book metadata from the provided database, such as title, author, and any relevant details about the series. I'll use those facts to answer your question about the series name and its position within the series.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "Answer does not address the specific question about the series name and its position within the series."
+    }
+  },
+  {
+    "id": 137,
+    "question": "What is the title of this book, as presented in the database?",
+    "answer_llm": "I'm ready to help. However, I don't see any context or metadata for a book in your message. Could you please provide the actual book information from the database? I'll be happy to answer your question based on that data.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "no mention of book title in provided text"
+    }
+  },
+  {
+    "id": 139,
+    "question": "Is this book part of a series, and if so, what is the position of the book within that series?",
+    "answer_llm": "I'm ready to help. Go ahead and provide the context for the question, including the metadata for the book you're interested in.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "asked for context and metadata, not the series position"
+    }
+  },
+  {
+    "id": 140,
+    "question": "What is the publication year of the book Gideon the Ninth?",
+    "answer_llm": "The publication year of the book \"Gideon the Ninth\" is 2019.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The question asks for the publication year, which is partially answered."
+    }
+  },
+  {
+    "id": 142,
+    "question": "What is the page count of Nona the Ninth?",
+    "answer_llm": "I don't have information about a book called \"Nona the Ninth\" in my available data. Could you please provide more context or details about this book? I'll do my best to help you find the answer.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "the answer is unrelated to the question"
+    }
+  },
+  {
+    "id": 143,
+    "question": "What is the publication year of the book 'A Desolation Called Peace'?",
+    "answer_llm": "According to the context, the publication year of the book \"A Desolation Called Peace\" is 2021.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The answer provides a specific publication year, but the question asks for the title of the book."
+    }
+  },
+  {
+    "id": 144,
+    "question": "What is the genre classification for this book, as described by the subgenre field?",
+    "answer_llm": "I'm ready to help. Go ahead and provide the book metadata, including the title and any other relevant fields (such as the subgenre). I'll do my best to answer your question based on that information.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "Does not provide a direct answer to the question"
+    }
+  },
+  {
+    "id": 145,
+    "question": "What is the approximate page count of the book Parable of the Sower?",
+    "answer_llm": "The approximate page count of the book \"Parable of the Sower\" by Octavia E. Butler is 336 pages (hardcover edition) and 352 pages (paperback edition).",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "Answer provides the page count, but the requested information is about a specific edition."
+    }
+  },
+  {
+    "id": 146,
+    "question": "What is the page count of 'Parable of the Talents'?",
+    "answer_llm": "The page count for \"Parable of the Talents\" by Octavia Butler is not explicitly stated in the provided metadata.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "metadata was not provided for the specific book title"
+    }
+  },
+  {
+    "id": 147,
+    "question": "What is the publication year of the book 'Kindred'?",
+    "answer_llm": "The publication year of the book \"Kindred\" is 1979.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The answer provides the publication year, but it does not provide additional context or information about the book 'Kindred'."
+    }
+  },
+  {
+    "id": 148,
+    "question": "What is the approximate number of pages in the book 'Dawn' by Octavia E. Butler?",
+    "answer_llm": "I don't have any information about a book called \"Dawn\" by Octavia E. Butler from the provided database. Could you please provide more context or details about this book, such as its title, publication date, or genre? I'll do my best to help you find the answer.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "the question asks for specific book details, but the answer cannot provide them due to lack of information in the database"
+    }
+  },
+  {
+    "id": 149,
+    "question": "What is the series position of 'Adulthood Rites' within 'Lilith's Brood'?",
+    "answer_llm": "Within the \"Lilith's Brood\" series, \"Adulthood Rites\" is the second book.",
+    "evaluation": {
+      "Relevance": "RELEVANT",
+      "Explanation": ""
+    }
+  },
+  {
+    "id": 150,
+    "question": "What is the publication year of the book 'Imago'?",
+    "answer_llm": "I don't have any information about a book called \"Imago\" in the context you've provided. Could you please provide more details or clarify which book \"Imago\" refers to? I'd be happy to try and help you find its publication year once I have that information.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "No relevant information about a book called 'Imago' found in the context."
+    }
+  },
+  {
+    "id": 151,
+    "question": "What is the total number of pages in the book?",
+    "answer_llm": "I'm happy to help, but it seems like you didn't provide any context or metadata about a specific book. Please provide more information about the book you're interested in, such as its title, author, or ISBN number, and I'll be happy to try and answer your question based on that data.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "doesn't address the question directly"
+    }
+  },
+  {
+    "id": 152,
+    "question": "What is the publication year of the book 'The Dispossessed'?",
+    "answer_llm": "The publication year of the book 'The Dispossessed' is 1974.",
+    "evaluation": {
+      "Relevance": "RELEVANT",
+      "Explanation": ""
+    }
+  },
+  {
+    "id": 153,
+    "question": "What is the series name of the book 'A Wizard of Earthsea'?",
+    "answer_llm": "The answer is \"Earthsea Cycle\".",
+    "evaluation": {
+      "Relevance": "RELEVANT",
+      "Explanation": "The answer directly provides the series name, making it relevant to the question about the 'A Wizard of Earthsea' book."
+    }
+  },
+  {
+    "id": 154,
+    "question": "What is the publication year of the book 'The Tombs of Atuan'?",
+    "answer_llm": "The publication year of the book \"The Tombs of Atuan\" is 1977.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": ""
+    }
+  },
+  {
+    "id": 155,
+    "question": "What is the title of the book?",
+    "answer_llm": "I'm ready to help. Please go ahead and provide the book metadata from the database, and I'll do my best to answer your question about the title of the book.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The answer mentions the ability to retrieve book metadata, but does not provide the title itself."
+    }
+  },
+  {
+    "id": 156,
+    "question": "What genre categories best describe the subgenres listed for this book?",
+    "answer_llm": "I'm ready to help. Please go ahead and provide the context with the book metadata, including the subgenre(s) listed. I'll do my best to answer the question based on those facts.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "Answer provides context for the question but does not directly address genre categories."
+    }
+  },
+  {
+    "id": 158,
+    "question": "What is the publication year of 'The Other Wind'?",
+    "answer_llm": "According to the context, I don't have specific information about a book titled \"The Other Wind\". However, I do know that the original context provided mentioned a different book titled \"The Other Wind\" by Ursula K. Le Guin.\n\nIf you meant the book written by Ursula K. Le Guin, it was published in 2000.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The answer provides a relevant publication year, but lacks specificity regarding the requested book title."
+    }
+  },
+  {
+    "id": 159,
+    "question": "What is the series to which The Golden Compass belongs?",
+    "answer_llm": "The series to which \"The Golden Compass\" belongs is \"His Dark Materials\".",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": ""
+    }
+  },
+  {
+    "id": 160,
+    "question": "What is the publication year of 'The Subtle Knife' book?",
+    "answer_llm": "Based on the context, I do not have enough information to determine the publication year of \"The Subtle Knife\". The context only provides metadata for a database that stores books, but it does not contain specific details about this particular book. Can you provide more information or clarify which database you are referring to?",
+    "evaluation": {
+      "Relevance": null,
+      "Explanation": "{\n  \"Relevance\": \"NON_RELEVANT\",\n  \"Explanation\": \"The answer does not address the question's query directly and instead asks for more context or clarification.\""
+    }
+  },
+  {
+    "id": 161,
+    "question": "What is the publication year of 'The Amber Spyglass', and how many pages does it have?",
+    "answer_llm": "I'm happy to help you with your question, but I don't see any context provided. Please provide the book metadata for \"The Amber Spyglass\", such as author, title, or publisher, and I'll be happy to answer your question about its publication year and page count.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "No context provided to determine publication year and page count of 'The Amber Spyglass'"
+    }
+  },
+  {
+    "id": 162,
+    "question": "What is the title of the book and its position within a series?",
+    "answer_llm": "I'm ready to help. Please go ahead and provide the context, including the book metadata (title and series information), so I can answer your question about the book's title and its position within a series.",
+    "evaluation": {
+      "Relevance": null,
+      "Explanation": "{\n  \"Relevance\": \"NON_RELEVANT\",\n  \"Explanation\": \"The answer asks for specific metadata, but the response requires more information to provide a relevant answer.\""
+    }
+  },
+  {
+    "id": 163,
+    "question": "What is the series name of this book, and what is its position within that series?",
+    "answer_llm": "I'm ready to help. Please provide the CONTEXT so I can assist with the QUESTION.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "Context is needed to assess relevance"
+    }
+  },
+  {
+    "id": 164,
+    "question": "Is 'Jonathan Strange & Mr Norrell' part of a larger series?",
+    "answer_llm": "The context does not provide information about whether \"Jonathan Strange & Mr Norrell\" is part of a larger series. The metadata only mentions that it is a standalone novel by Susanna Clarke, published in 2004 and adapted into a television miniseries.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The answer partially addresses the question, but with a limitation on the context provided by metadata."
+    }
+  },
+  {
+    "id": 165,
+    "question": "What is the publication year of the book 'Piranesi'?",
+    "answer_llm": "The publication year of the book 'Piranesi' is 2020.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The generated answer is too specific, it does not mention the book title."
+    }
+  },
+  {
+    "id": 166,
+    "question": "What is the target audience for this book according to its metadata?",
+    "answer_llm": "I'm ready to help. Please provide the book metadata, and I'll answer the question about the target audience based on that information.",
+    "evaluation": {
+      "Relevance": null,
+      "Explanation": "{\n  \"Relevance\": \"NON_RELEVANT\",\n  \"Explanation\": \"The generated answer doesn't provide a direct response to the question and instead requests additional information.\""
+    }
+  },
+  {
+    "id": 167,
+    "question": "What is the position of the Hogfather book within its respective series?",
+    "answer_llm": "I'm ready to help. Please go ahead and provide the context, including any relevant metadata about the \"Hogfather\" book, so I can answer your question accurately.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The question is asking about a book within a series, but the response seeks more context instead of providing an answer."
+    }
+  },
+  {
+    "id": 168,
+    "question": "Is this book part of a series?",
+    "answer_llm": "I'm ready to help. Please go ahead and provide the book metadata.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "Answer does not address the question directly"
+    }
+  },
+  {
+    "id": 169,
+    "question": "What is the page count of the book 'Going Postal'?",
+    "answer_llm": "The page count of the book \"Going Postal\" by Terry Pratchett is 416 pages.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "It provides the correct page count, but does not answer if it is a specific edition."
+    }
+  },
+  {
+    "id": 170,
+    "question": "What is the page count of the book Thud!",
+    "answer_llm": "The page count of the book \"Thud!\" by Joe Abercrombie is 416 pages.",
+    "evaluation": {
+      "Relevance": "RELEVANT",
+      "Explanation": "It answers the specific question about page count of 'Thud!'"
+    }
+  },
+  {
+    "id": 171,
+    "question": "What is the publication year of the book 'The Lion, the Witch and the Wardrobe'?",
+    "answer_llm": "Based on the context provided, I couldn't find any information about the specific book \"The Lion, the Witch and the Wardrobe\". However, I can tell you that C.S. Lewis wrote a series of seven fantasy novels called \"The Chronicles of Narnia\", which includes \"The Lion, the Witch and the Wardrobe\".\n\nIf you're looking for information on this particular book, could you please provide more context or clarify which specific edition or publication you're referring to?",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "Answer does not provide the requested information"
+    }
+  },
+  {
+    "id": 172,
+    "question": "What is the page count of Prince Caspian?",
+    "answer_llm": "I don't see any information about \"Prince Caspian\" in the context. However, I can tell you that \"Prince Caspian\" is a book by C.S. Lewis and it is part of \"The Chronicles of Narnia\". \n\nAccording to the database, \"Prince Caspian\" has a page count of 304 pages (hardcover edition).",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The answer refers to a book, not the page count of Prince Caspian"
+    }
+  },
+  {
+    "id": 173,
+    "question": "What is the publication year of the book?",
+    "answer_llm": "I'm happy to help you with your question! However, I don't see any context provided. Could you please provide the context or the database metadata for the book you're interested in? I'll do my best to answer your question based on the facts from the context.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "Answer requires context or metadata that is not provided in the question."
+    }
+  },
+  {
+    "id": 174,
+    "question": "What is the publication year of the book 'The Silver Chair'?",
+    "answer_llm": "The publication year of the book 'The Silver Chair' by C.S. Lewis is 1953.",
+    "evaluation": {
+      "Relevance": null,
+      "Explanation": "{\n  \"Relevance\": \"PARTLY_RELEVANT\",\n  \"Explanation\": \"The answer provides the publication year, but it's not clear how this information relates to the question or the book's context.\""
+    }
+  },
+  {
+    "id": 175,
+    "question": "What is the publication year of 'The Horse and His Boy'?",
+    "answer_llm": "The publication year of \"The Horse and His Boy\" by C.S. Lewis is 1954.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The answer provides the publication year, but it is missing any additional context or relation to the question's topic, such as C.S. Lewis' works in general."
+    }
+  },
+  {
+    "id": 176,
+    "question": "What is the publication year of The Magician's Nephew?",
+    "answer_llm": "The publication year of \"The Magician's Nephew\" is 1955.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "Answer mentions the publication year, but doesn't provide additional context about the book"
+    }
+  },
+  {
+    "id": 177,
+    "question": "Is The Last Battle a part of 'The Chronicles of Narnia' series?",
+    "answer_llm": "According to the context, I couldn't find any information about \"The Last Battle\" being part of 'The Chronicles of Narnia' series. However, the context only provides metadata for one book titled \"The Last Battle\", which might be a standalone novel or part of another series, but it is not explicitly stated that it is part of 'The Chronicles of Narnia'.",
+    "evaluation": {
+      "Relevance": null,
+      "Explanation": "{\n  \"Relevance\": \"PARTLY_RELEVANT\",\n  \"Explanation\": \"Answer provides information about the book, but it is not directly related to 'The Chronicles of Narnia' series.\""
+    }
+  },
+  {
+    "id": 179,
+    "question": "The book 'The Black Company' by Glen Cook was published in what year?",
+    "answer_llm": "According to the context, I don't have any information about \"The Black Company\" by Glen Cook. However, I can tell you that \"The Black Company\" is a fantasy novel series written by Glen Cook, and it's set in a medieval-inspired world with a focus on military adventure.\n\nIf you'd like to know more about the series or get recommendations based on similar books, feel free to ask!",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "does not provide the answer to the question about publication year"
+    }
+  },
+  {
+    "id": 180,
+    "question": "What is the publication year of Shadows Linger?",
+    "answer_llm": "I don't have enough information in the context to determine the publication year of \"Shadows Linger\". Can you please provide more context or details about this book, such as its title, author, or any other relevant information? I'll do my best to help.",
+    "evaluation": {
+      "Relevance": null,
+      "Explanation": "{\"Relevance\": \"NON_RELEVANT\", \"Explanation\": \"No direct context provided about the book\"}}"
+    }
+  },
+  {
+    "id": 181,
+    "question": "What is the position of The White Rose within Glen Cook's series, The Black Company?",
+    "answer_llm": "I don't have information about \"The White Rose\" being part of Glen Cook's series, The Black Company. However, I do know that \"The White Rose\" is a novel by C.J. Cherryh and it is not part of the Glen Cook's series.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The answer does not mention the series at all, let alone its position within it."
+    }
+  },
+  {
+    "id": 182,
+    "question": "Is 'Gardens of the Moon' part of the Malazan Book of the Fallen series?",
+    "answer_llm": "Yes, 'Gardens of the Moon' is part of the Malazan Book of the Fallen series.",
+    "evaluation": {
+      "Relevance": "RELEVANT",
+      "Explanation": "Answer directly addresses the question."
+    }
+  },
+  {
+    "id": 183,
+    "question": "What is the series position of the book 'Deadhouse Gates' within the Malazan Book of the Fallen series?",
+    "answer_llm": "The series position of \"Deadhouse Gates\" within the Malazan Book of the Fallen series is 5.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "Answer includes the series position, but does not provide a direct question answer."
+    }
+  },
+  {
+    "id": 184,
+    "question": "What is the publication year of the book 'Memories of Ice'?",
+    "answer_llm": "The publication year of the book \"Memories of Ice\" by Ian C. Esswood cannot be confirmed as it was not provided in the context. However, I can tell you that it's a novel from the \"Malazan Book of the Fallen\" series and consists of four books. The other books in the series are 'Gardens of the Moon', 'Deadhouse Gates' and 'House of Chains'.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The answer provides the book title, series information, and some other relevant details, but fails to mention the publication year."
+    }
+  },
+  {
+    "id": 185,
+    "question": "What is the total page count of 'House of Chains'?",
+    "answer_llm": "I don't have any information about a book titled \"House of Chains\" in the provided context. Can you please provide more details or clarify which book this refers to? I'd be happy to help once I have more information.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "No information about the book 'House of Chains' was found"
+    }
+  },
+  {
+    "id": 186,
+    "question": "What is the publication year of 'Midnight Tides'?",
+    "answer_llm": "The publication year of \"Midnight Tides\" is 2004.",
+    "evaluation": {
+      "Relevance": null,
+      "Explanation": "{\n  \"Relevance\": \"NON_RELEVANT\",\n  \"Explanation\": \"The question asks for a specific book, but the answer provides only its publication year, without identifying the book title.\""
+    }
+  },
+  {
+    "id": 187,
+    "question": "What is the number of pages in the book The Bonehunters?",
+    "answer_llm": "I'm not aware of any information about a book titled \"The Bonehunters\" in our database. Could you please provide more context or details about this book, such as the author or genre? I'll do my best to help you find the answer.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The answer does not mention the number of pages in 'The Bonehunters' book."
+    }
+  },
+  {
+    "id": 188,
+    "question": "Does the book 'Reaper's Gale' by Steven Erikson belong to the Malazan Book of the Fallen series?",
+    "answer_llm": "The context does not provide information about a book titled \"Reaper's Gale\" or its author. However, it does mention that Steven Erikson is an author and that there are multiple books mentioned in the database with his name as the author.\n\nIf you're looking for information on the Malazan Book of the Fallen series by Steven Erikson, I can tell you that the series includes:\n\n1. Gardens of the Moon\n2. Deadhouse Gates\n3. Memories of Ice\n\nThe context does not provide any information about a book titled \"Reaper's Gale\" being part of this series.\n\nIf you have any more questions or would like to know more about other books in the database, feel free to ask!",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "the answer does not provide information about 'Reaper's Gale'"
+    }
+  },
+  {
+    "id": 189,
+    "question": "What is the publication year of the book 'Toll the Hounds'?",
+    "answer_llm": "The answer to your question can be found in the given context, but there seems to be a missing part of it. However, I can provide an answer based on general information about \"Toll the Hound\" which is also known as \"Toll the Hounds\" by Joe Abercrombie.\n\nAccording to general knowledge, the book \"The Blade Itself\" is sometimes considered as having a companion story called \"Toll the Hounds.\" But for the standalone novel, there seems to be limited information available.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The generated answer does not address the specific question about the publication year of 'Toll the Hounds'."
+    }
+  },
+  {
+    "id": 190,
+    "question": "What is the publication year of 'Dust of Dreams'?",
+    "answer_llm": "The publication year of \"Dust of Dreams\" by Terry Brooks is 2005.",
+    "evaluation": {
+      "Relevance": "NON_RELEVANT",
+      "Explanation": "The question asks for the publication year of 'Dust of Dreams', but the answer does not provide a specific year, only mentions it was published by Terry Brooks in 2005."
+    }
+  },
+  {
+    "id": 191,
+    "question": "What is the publication year of 'The Crippled God'?",
+    "answer_llm": "The publication year of \"The Crippled God\" is 2014.",
+    "evaluation": {
+      "Relevance": "PARTLY_RELEVANT",
+      "Explanation": "The question is asking for a publication year, but the answer only provides a year from another book in the same series."
+    }
+  }
+]
