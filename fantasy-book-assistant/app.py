@@ -39,7 +39,6 @@ if st.button("Ask"):
                         f"**Themes:** {h.get('themes')}  \n"
                         f"**Publisher:** {h.get('publisher')}  \n"
                         f"**Pacing/Tone/Style:** {h.get('pacing')} / {h.get('tone')} / {h.get('writing_style')}  \n"
-                        f"**Narrative Structure:** {h.get('narrative_structure')}  \n"
                         f"**Setting:** {h.get('setting_type')}  \n"
                         f"**Tech focus:** {h.get('technology_focus')}  \n"
                         f"**Awards:** {h.get('awards')}  \n"

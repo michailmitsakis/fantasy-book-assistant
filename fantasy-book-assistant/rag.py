@@ -129,7 +129,6 @@ def search(query, top_k=5, author=None, year_gte=None, year_lte=None, page_gte=N
             "pacing": pl.get("pacing"),
             "tone": pl.get("tone"),
             "writing_style": pl.get("writing_style"),
-            "narrative_structure": pl.get("narrative_structure"),
             "setting_type": pl.get("setting_type"),
             "technology_focus": pl.get("technology_focus"),
             "content_warnings": pl.get("content_warnings")
