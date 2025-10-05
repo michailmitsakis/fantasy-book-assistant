@@ -119,6 +119,33 @@ Future improvements could involve:
 
 ---
 
+## 📘 Dataset
+
+The dataset used in this project contains detailed metadata about popular **fantasy and science-fiction books**, including:
+
+- **Book Name:** The title of the book (e.g., *The Way of Kings*, *Dune*, *The Left Hand of Darkness*).  
+- **Author Name:** The author or co-authors of the book (e.g., Brandon Sanderson, Ursula K. Le Guin).  
+- **Series Name & Position:** The book series and its order within that series (e.g., *The Stormlight Archive – Book 1*).  
+- **Subgenres:** The literary subcategories (e.g., Epic Fantasy, Space Opera, Dystopian).  
+- **Themes:** The major narrative ideas or motifs (e.g., Revolution, Friendship, Colonization, Artificial Intelligence).  
+- **Publisher:** The publishing house that released the book.  
+- **Publication Year:** The year the book was first published.  
+- **Page Count:** The approximate length of the book.  
+- **Pacing / Tone / Writing Style:** Qualitative descriptors of how the story unfolds and feels (e.g., Fast-paced, Hopeful, Lyrical).  
+- **Target Audience:** The intended readership (e.g., Adult, Young Adult, Middle Grade).  
+- **Setting Type:** The main narrative environment (e.g., Interstellar, Medieval-inspired, Post-apocalyptic).  
+- **Technology Focus:** The presence or role of technology (e.g., Space travel, AI, None).  
+- **Awards:** Recognitions the book has received (e.g., Hugo Award, Nebula Award, Locus Award).  
+- **Content Warnings:** Mentions of sensitive or potentially triggering topics.  
+- **Summary:** A short description of the book’s premise and main plot elements.
+
+The dataset was **generated and cleaned using ChatGPT**, combining structured metadata collection and light manual curation.  
+It contains **over 200 entries** and serves as the **foundation for the Book Assistant’s recommendations, retrieval, and contextual reasoning**.
+
+You can find the data file in [`data/data.json`](data/data.json).
+
+---
+
 ## 📸 Screenshots
 
 ### 🧭 Qdrant Visualization Examples
