@@ -1,10 +1,7 @@
-# 📚 Fantasy & Sci-Fi Book Assistant (RAG with Qdrant + Streamlit)
+# 📚 Fantasy & Sci-Fi Book Assistant
 
 ### 🧩 Overview
-This project is a lightweight **Retrieval-Augmented Generation (RAG)** application that helps users explore and query a curated collection of fantasy and science-fiction books.  
-It combines **Qdrant** for vector search, **FastEmbed** for embeddings, **Ollama** for local LLM inference, and **Streamlit** for an intuitive UI.
-
-Users can ask natural-language questions about books (themes, tone, pacing, etc.) and receive concise, context-aware answers based on the indexed metadata and summaries.
+Ever wanted to quickly sort through the vast number of fantasy and science fiction books to find the next best thing? This project is a lightweight **Retrieval-Augmented Generation (RAG)** fantasy & sci-fi book assistant that helps users explore and query a curated collection of best-selling fantasy & science fiction books. Users can ask natural-language questions about books (themes, tone, pacing, etc.) and receive concise, context-aware answers based on the indexed book metadata.
 
 ---
 
@@ -247,9 +244,9 @@ Developed as part of the **DataTalksClub LLM Zoomcamp**, exploring open-source R
   - 2 points: Instructions are clear, the dataset is accessible, it's easy to run the code, and it works. The versions for all dependencies are specified.
 
 - Best practices
- - Hybrid search: combining both text and vector search (at least evaluating it) (1 point)
- - Document re-ranking (1 point)
- - User query rewriting (1 point)
+   - Hybrid search: combining both text and vector search (at least evaluating it) (1 point)
+   - Document re-ranking (1 point)
+   - User query rewriting (1 point)
 
 - Bonus points (not covered in the course)
    - Deployment to the cloud (2 points)
