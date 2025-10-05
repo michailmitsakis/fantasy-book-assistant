@@ -33,7 +33,7 @@ You can find the data file in [`data/data.json`](data/data.json).
 ---
 
 ## Tech stack
-- **Language:** Python 3.12  
+- 🐍 **Language:** Python 3.12  
 - 🔍 **Semantic vector search:** Qdrant database in Docker
 - 🧠 **RAG pipeline:** FastEmbed (`jinaai/jina-embeddings-v2-small-en`) + Ollama (`llama3.2`)  
 - 🎨 **Interface:** Streamlit UI for interactive querying  
