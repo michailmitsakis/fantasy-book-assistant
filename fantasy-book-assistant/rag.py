@@ -138,7 +138,7 @@ def search(query, top_k=5, author=None, year_gte=None, year_lte=None, page_gte=N
 
 # ---------- Prompt building ----------
 
-def build_prompt(query, search_results):
+def build_prompt(query, search_results, max_chars=160):
 
     prompt_template = """
     You are an assistant for helping people decide on which fantasy and sci-fi books to read. Answer the QUESTION based on the CONTEXT from the FAQ database.
@@ -168,8 +168,13 @@ def build_prompt(query, search_results):
     context = ""
     
     for doc in search_results:
-        context = context + entry_template.format(**doc) + "\n\n"
-    
+
+        # Truncate long summaries for fast responses and to avoid wasting tokens!
+        if "summary" in doc and isinstance(doc["summary"], str):
+            doc["summary"] = doc["summary"][:max_chars].rsplit(" ", 1)[0] + "…" if len(doc["summary"]) > max_chars else doc["summary"]
+
+        context = context + entry_template.format(**doc) + "\n\n"    
+
     prompt = prompt_template.format(question=query, context=context).strip()
     return prompt
 
