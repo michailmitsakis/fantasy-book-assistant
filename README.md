@@ -25,3 +25,6 @@ For the code for evaluating the system, you can check the [notebooks/rag-test.ip
 
 
 ## Code
+
+
+Monitoring anc ontainerizaion tbd
