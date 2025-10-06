@@ -1,7 +1,7 @@
 # 📚 Fantasy & Sci-Fi Book Assistant
 
 ### 🧩 Overview
-Ever wanted to quickly sort through the vast number of fantasy and science fiction books to find the next best thing? This project is a lightweight **Retrieval-Augmented Generation (RAG)** fantasy & sci-fi book assistant that helps users explore and query a curated collection of best-selling fantasy & science fiction books. Users can ask natural-language questions about books (themes, tone, pacing, etc.) and receive concise, context-aware answers based on the indexed book metadata.
+Ever wanted to quickly sort through the vast number of fantasy and science fiction books to find the next best thing? This project is a lightweight fantasy & sci-fi book assistant that helps users explore and query a curated collection of best-selling fantasy & science fiction books. Users can ask natural-language questions about books (themes, tone, pacing, etc.) and receive concise, context-aware answers based on the indexed book metadata.
 
 ---
 
@@ -20,7 +20,7 @@ The dataset used in this project contains detailed metadata about popular **fant
 - **Pacing / Tone / Writing Style:** Qualitative descriptors of how the story unfolds and feels (e.g., Fast-paced, Hopeful, Lyrical).  
 - **Target Audience:** The intended readership (e.g., Adult, Young Adult, Middle Grade).  
 - **Setting Type:** The main narrative environment (e.g., Interstellar, Medieval-inspired, Post-apocalyptic).  
-- **Technology Focus:** The presence or role of technology (e.g., Space travel, AI, None).  
+- **Technology Focus:** The presence or role of technology (e.g., Space travel, AI).  
 - **Awards:** Recognitions the book has received (e.g., Hugo Award, Nebula Award, Locus Award).  
 - **Content Warnings:** Mentions of sensitive or potentially triggering topics.  
 - **Summary:** A short description of the book’s premise and main plot elements.
@@ -33,7 +33,7 @@ You can find the data file in [`data/data.json`](data/data.json).
 ---
 
 ## Tech stack
-- 🐍 **Language:** Python 3.12  
+- 🐍 **Language:** Python 3.12.10
 - 🔍 **Semantic vector search:** Qdrant database in Docker
 - 🧠 **RAG pipeline:** FastEmbed (`jinaai/jina-embeddings-v2-small-en`) + Ollama (`llama3.2`)  
 - 🎨 **Interface:** Streamlit UI for interactive querying  
@@ -44,13 +44,13 @@ You can find the data file in [`data/data.json`](data/data.json).
 ```
 fantasy-book-assistant/
 │
-├── app.py                    # Streamlit UI
-├── rag.py                    # Core RAG logic (search, prompt, LLM)
-├── ingest.py                 # Optional ingestion/indexing script
+├── app.py                         # Streamlit UI
+├── rag.py                         # Core RAG logic (search, prompt, LLM)
+├── ingest.py                      # Optional ingestion/indexing script
 ├── data/
-│   └── data.json             # Data
-│   └── evaluations.csv       # LLM-as-a-judge evaluation data
-│   └── evaluations.json      # LLM-as-a-judge evaluation data
+│   └── data.json                  # Data
+│   └── evaluations.csv            # LLM-as-a-judge evaluation data
+│   └── evaluations.json           # LLM-as-a-judge evaluation data
 │   └── ground-truth-retrieval.csv # Synthetic question data generation
 ├── fantasy-book-assistant.ipynb   # Development notebook
 ├── requirements.txt
