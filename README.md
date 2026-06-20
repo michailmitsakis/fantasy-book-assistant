@@ -186,9 +186,9 @@ pip install -r requirements.txt
 ---
 
 ## 🧭 Notes
-- This app runs **locally**; only Qdrant is in Docker.  
+- This app runs **locally**.  
 - **No conversation monitoring** was performed.  
-- **No containerization or cloud deployment** was performed.
+- **No containerization or cloud deployment** was performed, except for the Qdrant vector DB running in Docker.
 - Works fully offline after initialization.  
 
 ---
